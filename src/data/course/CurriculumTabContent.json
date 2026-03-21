@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Introduction to Power BI",
+        "content": [
+            "Understanding the Power BI ecosystem",
+            "Installing Power BI Desktop",
+            "Introduction to Power BI interface and features",
+            "Connecting to various data sources (Excel, CSV, databases, web, etc.)",
+            "Loading data into Power BI",
+            "Basic data transformation techniques"
+        ]
+    },
+    {
+        "title": "Data Modeling and Visualization Basics",
+        "content": [
+            "Understanding relationships in Power BI",
+            "Creating basic data models",
+            "Introduction to DAX (Data Analysis Expressions)",
+            "Building basic visualizations (bar charts, line charts, pie charts, etc.)",
+            "Formatting visuals and applying themes",
+            "Introduction to interactive reports and dashboards"
+        ]
+    },
+    {
+        "title": "Intermediate Power BI Skills",
+        "content": [
+            "Advanced relationships and cardinality",
+            "Introduction to DAX functions (CALCULATE, FILTER, RELATED, etc.)",
+            "Time Intelligence functions in DAX",
+            "Drill-down and drill-through visualizations",
+            "Custom visuals and importing from the marketplace",
+            "Conditional formatting and dynamic visuals"
+        ]
+    },
+    {
+        "title": "Advanced Data Transformation and Modeling",
+        "content": [
+            "Using Power Query Editor for complex data transformations",
+            "Merging queries and appending queries",
+            "Hierarchies and parent-child relationships",
+            "Handling many-to-many relationships",
+            "Advanced DAX patterns and optimization techniques"
+        ]
+    },
+    {
+        "title": "Advanced Analytics and Power BI Service",
+        "content": [
+            "DAX optimization and performance tuning",
+            "Advanced DAX functions (EARLIER, RANKX, etc.)",
+            "Publishing reports to Power BI Service",
+            "Creating dashboards and sharing content",
+            "Introduction to Power BI mobile app"
+        ]
+    },
+    {
+        "title": "Advanced Topics",
+        "content": [
+            "Working on real-world datasets and scenarios",
+            "Integrating Power BI with other tools (Excel, SharePoint, etc.)",
+            "Best practices for report design and development",
+            "Advanced data analytics with Power BI",
+            "Advanced visualization techniques and storytelling with data"
+        ]
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "title": "Power BI",
+        "description": "Microsoft Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.",
+        "image": "b1.png",
+        "instructor": "James Carlson",
+        "duration": "80h 15m 00s",
+        "durationInHour": "80 Hours",
+        "durationInHourMinute": "80hr 15min",
+        "level": "Intermediate",
+        "language": "English",
+        "deadline": "22 Mar, 2026",
+        "rating": "4.9",
+        "student": 363,
+        "lesson": 29,
+        "quizzes": 12,
+        "price": "4500",
+        "oldPrice": "8500",
+        "review": 56,
+        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "passPercentage": 80,
+        "featured": true,
+        "certificate": "available",
+        "filterParam": "Popularity",
+        "categories": [
+            "Language Learning",
+            "Business"
+        ],
+        "videoLink": [
+            "https://www.youtube.com/watch?v=kGPr-RYZT2o"
+        ],
+        "excerpt": "Power BI is essential for businesses as it allows for easy visualization and analysis of data, enabling informed decision-making. Its user-friendly interface and powerful capabilities streamline data management processes, enhancing overall efficiency and productivity. ",
+        "details": "<h5>Course Description</h5> <p>Power BI is used for business intelligence (BI), transforming raw data from various sources into interactive, visual reports and dashboards to help people understand trends, make data-driven decisions, and monitor performance across an organization, from sales to operations, using features like AI insights and self-service analytics. It allows users to connect to data, clean and model it, create visualizations (charts, maps, graphs), and share these insights easily within apps or the web.  </p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Power BI</li><li>Data Sources and Data Loading</li><li>Data Modeling and Visualization Basics</li><li>Intermediate Data Modeling and DAX</li><li>Advanced Visualization Techniques</li><li>Advanced Data Transformation and Modeling</li><li>Advanced Analytics and Power BI Service</li></ul> "
+    },
+    {
+        "id": 2,
+        "title": "Data Analytics",
+        "description": "It converts raw data into actionable insights. It includes a range of tools, technologies, and processes used to find trends and solve problems by using data.",
+        "image": "da.png",
+        "instructor": "Nancy Phipps",
+        "duration": "30h 25m 30s",
+        "durationInHour": "30 Hours",
+        "durationInHourMinute": "30hr 25min",
+        "level": "Advanced",
+        "language": "English",
+        "deadline": "22 Mar, 2026",
+        "rating": "4.8",
+        "student": 455,
+        "lesson": 35,
+        "quizzes": 10,
+        "price": "9999.00",
+        "review": 25.0,
+        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "passPercentage": 90,
+        "featured": false,
+        "certificate": "available",
+        "filterParam": "Trending",
+        "categories": [
+            "Business",
+            "Graphics Design"
+        ],
+        "videoLink": [
+            "https://www.youtube.com/watch?v=pNje3bWz7V8"
+        ],
+        "excerpt": "Data analytics converts raw data into actionable insights. It includes a range of tools, technologies, and processes used to find trends and solve problems by using data. Data analytics can shape business processes, improve decision-making, and foster business growth.",
+        "details": "<h5>Course Description</h5> <p>Data analytics is the process of collecting, transforming, and organizing data to derive actionable insights, predict trends, and inform business decisions. It encompasses techniques like data mining, machine learning, and visualization to optimize performance and efficiency, often categorized into descriptive, diagnostic, predictive, and prescriptive types.</p><h5>Key Aspects of Data Analytics</h5><ul><li><strong>Descriptive:</strong> Analyzes historical data to understand what happened.</li><li><strong>Diagnostic:</strong> Investigates data to understand why something happened.</li><li><strong>Predictive:</strong> Uses historical data to forecast future outcomes.</li><li><strong>Prescriptive:</strong> Recommends specific actions based on predictive insights.</li></ul><h5>The Process</h5><p>Data analytics involves identifying requirements, collecting data,cleaning/processing it, analyzing it, and sharing findings through visualizations.</p><h5>Key Tools</h5><p>Popular tools include Python, R, SQL, Excel, Tableau, Power BI, Apache Spark, and SAP Analytics Cloud.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Data Analytics and Basic Statistics</li><li>Exploratory Data Analysis (EDA) and Intermediate Statistics</li><li>Machine Learning Basics</li><li>Advanced Topics and Final Project</li></ul> "
+    },
+    {
+        "id": 3,
+        "title": "Rivet",
+        "description": "Autodesk Revit has a . NET API which means you can use any of the . NET compliant programming languages (C#, VB.NET, F#, etc.) to develop a plug-in.",
+        "image": "riv.png",
+        "instructor": "Linda Bacote",
+        "duration": "10h 35m 18s",
+        "durationInHour": "10 Hours",
+        "durationInHourMinute": "10hr 35min",
+        "level": "Beginner",
+        "language": "English",
+        "deadline": "22 Mar, 2026",
+        "rating": "5.0",
+        "student": 80,
+        "lesson": 20,
+        "quizzes": 15,
+        "price": "2999",
+        "oldPrice": "6999",
+        "review": 23,
+        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "passPercentage": 90,
+        "featured": true,
+        "certificate": "available",
+        "filterParam": "Featured",
+        "categories": [
+            "App Development",
+            "Marketing"
+        ],
+        "videoLink": [
+            "https://www.youtube.com/watch?v=pNje3bWz7V8"
+        ],
+        "excerpt": "Rivets are essential fasteners used in construction and manufacturing to join materials together securely. They provide strength, durability, and structural integrity, making them indispensable in various industries such as aerospace, automotive, and engineering.",
+        "details": "<h5>Course Description</h5> <p>A rivet is a permanent mechanical fastener used to join two or more materials, such as metal, plastic, or leather. It consists of a smooth cylindrical shaft (the shank) with a pre-formed head on one end and a tail on the other.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Rivet</li><li>Intermediate Rivet Programming</li><li>Object-Oriented Programming (OOP) in Rivet</li><li>Advanced Rivet Concepts</li><li>Web Development with Rivet</li><li>Advanced Web Development and Projects</li></ul> <h5>Practice and Projects Documentation and Resources Assessments and Feedback</h5> "
+    }
+]
