@@ -1,35 +1,48 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import CourseData from '../../../data/course/CourseData.json';
 import CourseTypeOne from '../home02/CourseTypeOne';
 
+const CourseTypeFilter = ({ itemToShow }) => {
 
-const CourseTypeFilter = ( { itemToShow} ) => {
+    // ✅ FIXED: memoized
+    const FilterControls = useMemo(() => {
+        const controls = [...new Set(CourseData.map(item => item.filterParam))];
+        controls.unshift('All');
+        return controls;
+    }, []);
 
-    const FilterControls = [...new Set( CourseData.map( item => item.filterParam ) ) ];
-    FilterControls.unshift( 'All' );
-    
     const numberOfCourses = itemToShow || 8;
-    const [dataVisibleCount] = useState( numberOfCourses );
+    const [dataVisibleCount] = useState(numberOfCourses);
 
-    const [activeFilter, setActiveFilter] = useState( '' );
-    const [visibleItems, setVisibleItems] = useState( [] );
-    useEffect( () => {
-        setActiveFilter( FilterControls[0].toLowerCase() );
-        setVisibleItems( CourseData.filter( ( item ) => item.id <= dataVisibleCount ) );
-    }, [FilterControls, dataVisibleCount] );
+    const [activeFilter, setActiveFilter] = useState('');
+    const [visibleItems, setVisibleItems] = useState([]);
 
-    const handleChange = ( e ) => {
+    useEffect(() => {
+        setActiveFilter(FilterControls[0].toLowerCase());
+        setVisibleItems(
+            CourseData.filter((item) => item.id <= dataVisibleCount)
+        );
+    }, [FilterControls, dataVisibleCount]);
+
+    const handleChange = (e) => {
         e.preventDefault();
-        setActiveFilter( e.target.textContent.toLowerCase() );
+        const selected = e.target.textContent.toLowerCase();
+
+        setActiveFilter(selected);
+
         let tempData;
-        if ( e.target.textContent.toLowerCase() === FilterControls[0].toLowerCase() ) {
-            tempData = CourseData.filter( ( data ) => data.id <= dataVisibleCount );
+        if (selected === FilterControls[0].toLowerCase()) {
+            tempData = CourseData.filter((data) => data.id <= dataVisibleCount);
         } else {
-            tempData = CourseData.filter( ( data ) => data.filterParam.toLowerCase() === e.target.textContent.toLowerCase() &&
-            data.id <= dataVisibleCount );
+            tempData = CourseData.filter(
+                (data) =>
+                    data.filterParam.toLowerCase() === selected &&
+                    data.id <= dataVisibleCount
+            );
         }
-        setVisibleItems( tempData );
-    }
+
+        setVisibleItems(tempData);
+    };
 
 
     return (
@@ -41,15 +54,16 @@ const CourseTypeFilter = ( { itemToShow} ) => {
                             <span className="subheading">Course Trending</span>
                             <h2 className="font-lg">Explore popular courses</h2>
                         </div>
+
                         <div className="course-filter button-group isotop-filter filters-button-group d-flex justify-content-center">
-                            {FilterControls.map( ( filter, i ) => (
+                            {FilterControls.map((filter) => (
                                 <button
                                     onClick={handleChange}
-                                    key={i}
+                                    key={filter}
                                     className={
                                         filter.toLowerCase() === activeFilter
-                                        ? "is-checked"
-                                        : " "
+                                            ? "is-checked"
+                                            : ""
                                     }
                                 >
                                     {filter}
@@ -60,17 +74,15 @@ const CourseTypeFilter = ( { itemToShow} ) => {
                 </div>
 
                 <div className="row">
-                    {
-                        visibleItems.map((item) => (
-                            <div className="col-lg-3 col-md-6 col-sm-6" key={ item.id }>
-                                <CourseTypeOne data={item} />
-                            </div>
-                        ) )
-                    }
+                    {visibleItems.map((item) => (
+                        <div className="col-lg-3 col-md-6 col-sm-6" key={item.id}>
+                            <CourseTypeOne data={item} />
+                        </div>
+                    ))}
                 </div>
             </div>
         </>
-    )
-}
+    );
+};
 
 export default CourseTypeFilter;

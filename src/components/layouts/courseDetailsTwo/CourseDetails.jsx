@@ -1,19 +1,12 @@
 import React, { useState, useContext } from "react";
 import { Link, useParams } from "react-router-dom";
 import { Accordion } from "react-bootstrap";
-import FsLightbox from "fslightbox-react";
-
 import { useAccordionButton } from "react-bootstrap/AccordionButton";
 import AccordionContext from "react-bootstrap/AccordionContext";
 import CourseData from "../../../data/course/CourseData.json";
-
 import InstructorData from "../../../data/instructor/InstructorData.json";
 import CurriculumTabContent from "../../../data/course/CurriculumTabContent.json";
-
 import { slugify } from "../../../utils/index";
-
-import RelatedCourses from "../courseDetailsTwo/RelatedCourses";
-
 import CourseInfo from "../courseDetailsTwo/CourseInfo";
 
 const CustomToggle = ({ children, eventKey }) => {
@@ -43,12 +36,13 @@ const CurriculumContent = () => {
         }
     }
 
+
     return (
         <Accordion bsPrefix="edu-accordion-02" defaultActiveKey={activeId} flush>
             {CurriculumTabContent.map((accordion, i) => (
                 <Accordion.Item
                     eventKey={i.toString()}
-                    key={i}
+                    key={`curriculum-${i}`}
                     onClick={() => toggleActive(i.toString())}
                     bsPrefix={`edu-accordion-item ${activeId === i.toString() ? "bg-active" : ""}`}
                 >
@@ -60,7 +54,7 @@ const CurriculumContent = () => {
                     <Accordion.Body bsPrefix="edu-accordion-body">
                         <ul>
                             {accordion.content.map((title, index) => (
-                                <li key={index}>
+                                <li key={`content-${i}-${index}`}>
                                     <div className="text">
                                         <i className="ri-draft-line"></i>
                                         {title}
@@ -95,18 +89,9 @@ const CourseDetails = () => {
 
     const [contentTab, setContentTab] = useState("overview");
     const handleTab = (content) => {
-        if (content === "overview") {
-            setContentTab("overview");
-        } else if (content === "curriculum") {
-            setContentTab("curriculum");
-        } else if (content === "instructor") {
-            setContentTab("instructor");
-        } else if (content === "reviews") {
-            setContentTab("reviews");
-        }
+        setContentTab(content);
     };
 
-    const [toggler, setToggler] = useState(false);
 
     return (
         <>
@@ -164,24 +149,6 @@ const CourseDetails = () => {
 
                         <div className="col-xl-5">
                             <div className="video-area">
-                                {/* <div className="thumbnail video-popup-wrapper course-thumbnail">
-                                    <img
-                                        className="radius-small w-100"
-                                        src={`${process.env.PUBLIC_URL}/assets/images/course/video-bg/${courseItem.image}`}
-                                        alt="Course Video Thumb"
-                                    />
-
-                                    <button
-                                        onClick={() => setToggler(!toggler)}
-                                        className="video-play-btn position-to-top video-popup-activation"
-                                    >
-                                        <span className="play-icon"></span>
-                                    </button>
-                                    <FsLightbox
-                                        toggler={toggler}
-                                        sources={courseItem.videoLink}
-                                    />
-                                </div> */}
                                 <div className="thumbnail video-popup-wrapper course-thumbnail">
                                     <img
                                         className="radius-small w-100"
@@ -215,20 +182,6 @@ const CourseDetails = () => {
                                                 Overview
                                             </a>
                                         </li>
-                                        {/* <li className="nav-item">
-                                            <a
-                                                className={
-                                                    contentTab === "curriculum"
-                                                        ? "nav-link active"
-                                                        : "nav-link"
-                                                }
-                                                type="button"
-                                                aria-label="Curriculum"
-                                                onClick={() => handleTab("curriculum")}
-                                            >
-                                                Curriculum
-                                            </a>
-                                        </li> */}
                                         <li className="nav-item">
                                             <a
                                                 className={

@@ -3,7 +3,6 @@ import {
     PageBanner,
     Features,
 } from "../layouts/about/index";
-// import About from "../layouts/home02/index";
 import About from "../layouts/home02/About";
 import Layout from "../../common/Layout";
 
