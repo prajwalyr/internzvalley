@@ -1,11 +1,7 @@
 import React from "react";
 import {
     PageBanner,
-    Counter,
-    AboutComp,
     Features,
-    Team,
-    Review,
 } from "../layouts/about/index";
 // import About from "../layouts/home02/index";
 import About from "../layouts/home02/About";

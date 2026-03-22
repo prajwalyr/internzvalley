@@ -16,7 +16,7 @@ const CourseTypeFilter = ( { itemToShow} ) => {
     useEffect( () => {
         setActiveFilter( FilterControls[0].toLowerCase() );
         setVisibleItems( CourseData.filter( ( item ) => item.id <= dataVisibleCount ) );
-    }, [] );
+    }, [FilterControls, dataVisibleCount] );
 
     const handleChange = ( e ) => {
         e.preventDefault();

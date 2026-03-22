@@ -2,13 +2,11 @@ import React from "react";
 import {
   Banner,
   Counter,
-  Process,
   CourseGridPopular,
-  Features,
   About,
 } from "../layouts/home02/index";
 import HeaderTwo from "../../common/header/HeaderTwo";
-import FooterTwo from "../../common/footer/FooterTwo";
+// import FooterTwo from "../../common/footer/FooterTwo";
 import AboutComp from "../layouts/about/About01";
 import Cta from "../layouts/home01/Cta";
 import FooterOne from "../../common/footer/FooterOne";
