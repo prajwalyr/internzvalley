@@ -1,14 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import InstructorData from '../../../data/instructor/InstructorData.json';
-import { slugify } from '../../../utils/index';
 
 const CourseType = ({ data, classes }) => {
-    const indexOfInstructor = InstructorData.findIndex( function( instructor ) {
-        return slugify( instructor.name ) === slugify( data.instructor );
-    } );
-    const instructorThumb = InstructorData[indexOfInstructor].image;
-
     const imageUrl = `${process.env.PUBLIC_URL}/assets/images/course/course-01/${data.image}`;
 
     const containerStyle = {
@@ -43,8 +36,7 @@ const CourseType = ({ data, classes }) => {
                         <h3 className="course-title"> <Link to={process.env.PUBLIC_URL + `/course-details/${data.id}`}>{data.title}</Link> </h3>
                         <div className="course-meta d-flex align-items-center">
                             <div className="author">
-                                <img src={`${process.env.PUBLIC_URL}/assets/images/instructor/${instructorThumb}`} alt="" className="img-fluid"/>
-                                <a href="/">{data.instructor}</a>
+                                By Industrial Experts
                             </div>
                             <span className="students"><i className="far fa-user-alt"></i>{data.student} </span>
                         </div>

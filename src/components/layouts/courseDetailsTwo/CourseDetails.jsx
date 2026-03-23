@@ -1,12 +1,10 @@
 import React, { useState, useContext } from "react";
-import { Link, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { Accordion } from "react-bootstrap";
 import { useAccordionButton } from "react-bootstrap/AccordionButton";
 import AccordionContext from "react-bootstrap/AccordionContext";
 import CourseData from "../../../data/course/CourseData.json";
-import InstructorData from "../../../data/instructor/InstructorData.json";
 import CurriculumTabContent from "../../../data/course/CurriculumTabContent.json";
-import { slugify } from "../../../utils/index";
 import CourseInfo from "../courseDetailsTwo/CourseInfo";
 
 const CustomToggle = ({ children, eventKey }) => {
@@ -78,15 +76,6 @@ const CourseDetails = () => {
     const data = CourseData.filter((course) => course.id === courseId);
     const courseItem = data[0];
 
-    const indexOfInstructor = InstructorData.findIndex(function (instructor) {
-        return slugify(instructor.name) === slugify(courseItem.instructor);
-    });
-    const instructor = InstructorData[indexOfInstructor];
-
-    const instructorThumb = InstructorData[indexOfInstructor].image;
-
-    const instructorExcerpt = instructor.details.substring(0, 190) + "...";
-
     const [contentTab, setContentTab] = useState("overview");
     const handleTab = (content) => {
         setContentTab(content);
@@ -107,12 +96,7 @@ const CourseDetails = () => {
                                     <ul className="inline-list list-info">
                                         <li>
                                             <div className="course-author">
-                                                <img
-                                                    src={`${process.env.PUBLIC_URL}/assets/images/instructor/${instructorThumb}`}
-                                                    alt=""
-                                                    className="img-fluid"
-                                                />
-                                                {courseItem.instructor}
+                                                Industrial Experts
                                             </div>
                                         </li>
 
@@ -185,20 +169,6 @@ const CourseDetails = () => {
                                         <li className="nav-item">
                                             <a
                                                 className={
-                                                    contentTab === "instructor"
-                                                        ? "nav-link active"
-                                                        : "nav-link"
-                                                }
-                                                type="button"
-                                                aria-label="Instructor"
-                                                onClick={() => handleTab("instructor")}
-                                            >
-                                                Instructor
-                                            </a>
-                                        </li>
-                                        <li className="nav-item">
-                                            <a
-                                                className={
                                                     contentTab === "reviews"
                                                         ? "nav-link active"
                                                         : "nav-link"
@@ -241,67 +211,6 @@ const CourseDetails = () => {
                                         </div>
                                     )}
 
-                                    {/*  INstructor Tab */}
-                                    {contentTab === "instructor" && (
-                                        <div
-                                            className={`tab-pane fade show ${contentTab === "instructor" ? "active" : ""} `}
-                                        >
-                                            <div className="course-tab-content">
-                                                <div className="courses-instructor">
-                                                    <div className="single-instructor-box">
-                                                        <div className="row align-items-center">
-                                                            <div className="col-lg-4 col-md-4">
-                                                                <div className="instructor-image">
-                                                                    <img
-                                                                        src={`${process.env.PUBLIC_URL}/assets/images/team/${instructor.imageLg}`}
-                                                                        alt="Author Thumb"
-                                                                    />
-                                                                </div>
-                                                            </div>
-
-                                                            <div className="col-lg-8 col-md-8">
-                                                                <div className="instructor-content">
-                                                                    <h4>
-                                                                        <Link
-                                                                            to={
-                                                                                process.env.PUBLIC_URL +
-                                                                                `/instructor-details/${slugify(courseItem.instructor)}`
-                                                                            }
-                                                                        >
-                                                                            {instructor.name}
-                                                                        </Link>
-                                                                    </h4>
-                                                                    <span className="sub-title">
-                                                                        {instructor.designation}
-                                                                    </span>
-
-                                                                    <p>{instructorExcerpt}</p>
-
-                                                                    <div className="intructor-social-links">
-                                                                        <span className="me-2">Follow Me: </span>
-                                                                        <a href={instructor.facebookUrl}>
-                                                                            <i className="fab fa-facebook-f"></i>
-                                                                        </a>
-                                                                        <a href={instructor.linkedInUrl}>
-                                                                            <i className="fab fa-linkedin-in"></i>
-                                                                        </a>
-                                                                        <a href={instructor.pinterest}>
-                                                                            <i className="fab fa-pinterest"></i>
-                                                                        </a>
-                                                                        <a href={instructor.twitterUrl}>
-                                                                            <i className="fab fa-twitter"></i>
-                                                                        </a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                {/* COURSE AUTHOR END */}
-                                            </div>
-                                        </div>
-                                    )}
-
                                     {/*  Review TAb */}
 
                                     {contentTab === "reviews" && (
@@ -316,7 +225,7 @@ const CourseDetails = () => {
                                                                 <div className="course-single-review">
                                                                     <div className="user-image">
                                                                         <img
-                                                                            src={`${process.env.PUBLIC_URL}/assets/images/team/${instructor.imageLg}`}
+                                                                            src="assets/images/blog/author.jpg"
                                                                             alt="Author Thumb"
                                                                         />
                                                                     </div>
