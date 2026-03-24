@@ -60,7 +60,8 @@ body {
 }
 
 p {
-  color: var(--theme-text-color);
+  /* color: var(--theme-text-color); */
+  color: black;
   font-family: var(--theme-secondary-font);
   line-height: 30px;
   font-size: 16px;
@@ -2802,7 +2803,7 @@ portflio filter
   font-size: 18px;
   line-height: 28px;
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  /* -webkit-line-clamp: 2; */
   -webkit-box-orient: vertical;  
   overflow: hidden;
 }
@@ -4572,7 +4573,7 @@ Single Blog POSt
 Footer Section
 ======================*/
 .footer {
-  padding: 100px 0px 20px;
+  padding: 120px 0px 20px;
   position: relative;
   background: #000000;
 }
@@ -4970,4 +4971,63 @@ Fixed top top bottom
 .course-details-header  .review-stars-rated  i{
   color:#FFA41B;
   font-size: 18px;
+}
+/* CSS (AmbassadorSection.css) */
+.ambassador-container {
+  background-color: #000;
+  color: #fff;
+  padding: 50px;
+  font-family: Arial, sans-serif;
+}
+
+/* Top Section */
+.top-section {
+  display: flex;
+  gap: 80px;
+  align-items: center;
+}
+
+.images {
+  display: flex;
+  gap: 20px;
+}
+
+.images img {
+  width: 420px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.content h1 {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.content h4 {
+  font-style: italic;
+  margin-bottom: 20px;
+  color: #ccc;
+}
+
+.content p {
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+/* Bottom Section */
+.bottom-section {
+  margin-top: 60px;
+  text-align: center;
+}
+
+.bottom-section h2 {
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+
+.bottom-section p {
+  max-width:100%;
+  margin: 10px auto;
+  line-height: 1.6;
 }

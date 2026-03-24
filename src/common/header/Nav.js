@@ -1,4 +1,5 @@
 import React , { useRef, useEffect , useState} from 'react';
+import { Link } from 'react-router-dom';
 
 const Nav = () => {
 
@@ -16,7 +17,7 @@ const Nav = () => {
   const [menuItems, setMenuItems] = useState([
     {
         label: 'Home',
-        link: '#',
+        link: '/',
         class: 'current',
         // submenu: [
         //   { label: 'Home One', link: '/' },
@@ -59,10 +60,17 @@ const Nav = () => {
     // },
     {
         label: 'Contact',
-        link: '/contact',
+        link: `${process.env.PUBLIC_URL}/contact`,
         
     },
-
+    {
+      label: 'More',
+      link: '#',
+      submenu: [
+        { label: 'Hire From Us', link: `${process.env.PUBLIC_URL}/hire-from-us` },
+        { label: 'Campus Ambassador', link: `${process.env.PUBLIC_URL}/campus-ambassador` },
+      ],
+    },
   
     // Add more menu items as needed
   ]);
@@ -90,9 +98,9 @@ const handleSubmenuToggle = (index) => {
             {menuItems.map((item, index) => (
           <li key={index}>
 
-            <a href={item.link}>
+            <Link to={item.link}>
               {item.label}
-            </a>
+            </Link>
 
             {item.submenu && (
               <span
@@ -111,7 +119,7 @@ const handleSubmenuToggle = (index) => {
               >
                 {item.submenu.map((subitem, subindex) => (
                    <li key={subindex} >
-                    <a href={subitem.link}>{subitem.label}</a>
+                    <Link to={subitem.link}>{subitem.label}</Link>
                   </li>
                 ))}
               </ul>

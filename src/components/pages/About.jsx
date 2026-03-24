@@ -3,10 +3,10 @@ import {
     PageBanner,
     Features,
 } from "../layouts/about/index";
-import About from "../layouts/home02/About";
 import Layout from "../../common/Layout";
+import About from "../layouts/home02/About12";
 
-const AboutMain = () => {
+function AboutMain() {
     return (
         <div className="about">
             <Layout>
@@ -14,17 +14,12 @@ const AboutMain = () => {
                     title="About us"
                     rootUrl="/"
                     parentUrl="Home"
-                    currentUrl="About"
-                />
+                    currentUrl="About" />
                 <About />
                 <Features />
-                {/* <Team /> */}
-                {/* <Counter /> */}
-                {/* <AboutComp /> */}
-                {/* <Review /> */}
             </Layout>
         </div>
     );
-};
+}
 
 export default AboutMain;

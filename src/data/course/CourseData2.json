@@ -18,7 +18,23 @@
         "price": "4500",
         "oldPrice": "5500",
         "review": 56,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 4.9,
+                "text": "This full-stack course gave me the skills to build complete web applications. The hands-on projects were invaluable.",
+                "author": "Arjun Rao - Professional"
+            },
+            {
+                "rating": 4.8,
+                "text": "Excellent course covering both frontend and backend. I now feel ready to pursue a career in web development.",
+                "author": "Nisha Chopra - Student"
+            },
+            {
+                "rating": 5.0,
+                "text": "My daughter learned so much from this course. The instructors are knowledgeable and the content is up-to-date.",
+                "author": "Suresh Nair - Guardian"
+            }
+        ],
         "passPercentage": 80,
         "featured": true,
         "certificate": "available",
@@ -51,7 +67,18 @@
         "quizzes": 10,
         "price": "5500",
         "review": 25.0,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 4.8,
+                "text": "As a security professional, this course deepened my understanding of ethical hacking techniques. Highly recommended.",
+                "author": "Deepak Joshi - Professional"
+            },
+            {
+                "rating": 4.7,
+                "text": "Great introduction to cybersecurity. The practical labs helped me understand real-world threats.",
+                "author": "Pooja Mehta - Student"
+            }
+        ],
         "passPercentage": 90,
         "featured": false,
         "certificate": "available",
@@ -85,7 +112,28 @@
         "price": "7999",
         "oldPrice": "9900",
         "review": 23,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 5.0,
+                "text": "This AI course is fantastic. It covers machine learning fundamentals and advanced topics brilliantly.",
+                "author": "Karan Bhatia - Professional"
+            },
+            {
+                "rating": 4.9,
+                "text": "Perfect for beginners in AI. The explanations are clear and the examples are relevant.",
+                "author": "Simran Kaur - Student"
+            },
+            {
+                "rating": 4.8,
+                "text": "My child is fascinated with AI after this course. The interactive content kept him interested throughout.",
+                "author": "Mohan Das - Guardian"
+            },
+            {
+                "rating": 5.0,
+                "text": "Comprehensive AI course that prepared me for real-world applications. The neural networks section was excellent.",
+                "author": "Ritu Agarwal - Professional"
+            }
+        ],
         "passPercentage": 90,
         "featured": true,
         "certificate": "available",
@@ -118,7 +166,23 @@
         "quizzes": 25,
         "price": "8900",
         "review": 35,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 5.0,
+                "text": "This data science course is comprehensive and practical. I learned to handle real datasets effectively.",
+                "author": "Rahul Saxena - Professional"
+            },
+            {
+                "rating": 4.9,
+                "text": "Great course for aspiring data scientists. The Python and R sections were particularly useful.",
+                "author": "Divya Tiwari - Student"
+            },
+            {
+                "rating": 4.8,
+                "text": "My son gained valuable skills in data science. The course structure is excellent for self-paced learning.",
+                "author": "Anil Yadav - Guardian"
+            }
+        ],
         "passPercentage": 80,
         "featured": true,
         "certificate": "available",
@@ -151,7 +215,18 @@
         "quizzes": 14,
         "price": "6999",
         "review": 19,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 4.7,
+                "text": "Solid Java course that covers OOP concepts thoroughly. Helped me in my software development career.",
+                "author": "Vivek Pandey - Professional"
+            },
+            {
+                "rating": 4.8,
+                "text": "Excellent introduction to Java programming. The projects built my confidence in coding.",
+                "author": "Alisha Roy - Student"
+            }
+        ],
         "passPercentage": 80,
         "featured": false,
         "certificate": "available",
@@ -184,7 +259,28 @@
         "quizzes": 15,
         "price": "4900",
         "review": 20,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 4.5,
+                "text": "This machine learning course is advanced but accessible. The algorithms section was challenging yet rewarding.",
+                "author": "Sanjay Malhotra - Professional"
+            },
+            {
+                "rating": 4.6,
+                "text": "Great course for ML enthusiasts. I learned to implement models from scratch.",
+                "author": "Neha Bansal - Student"
+            },
+            {
+                "rating": 4.4,
+                "text": "My child developed a strong interest in ML through this course. The practical examples were engaging.",
+                "author": "Ravi Kapoor - Guardian"
+            },
+            {
+                "rating": 4.7,
+                "text": "Comprehensive ML course that covers deep learning and neural networks. Highly recommended for professionals.",
+                "author": "Swati Ghosh - Professional"
+            }
+        ],
         "passPercentage": 90,
         "featured": true,
         "certificate": "available",
@@ -218,7 +314,18 @@
         "price": "5900",
         "oldPrice": "6500",
         "review": 15,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 4.7,
+                "text": "This course made SQL easy to understand. The practical queries helped me gain confidence in handling databases.",
+                "author": "Rohit Sharma - Student"
+            },
+            {
+                "rating": 4.8,
+                "text": "Very useful for professionals working with data. The course structure is clear and well-organized.",
+                "author": "Sneha Iyer - Professional"
+            }
+        ],
         "passPercentage": 80,
         "featured": false,
         "certificate": "available",
@@ -252,7 +359,18 @@
         "price": "3500",
         "oldPrice": "3900",
         "review": 14,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 4.7,
+                "text": "Great course for beginners in stock market and crypto. Concepts are explained in a simple way.",
+                "author": "Amit Verma - Student"
+            },
+            {
+                "rating": 4.8,
+                "text": "Helped me understand real investment strategies. Very practical and insightful.",
+                "author": "Kavita Shah - Professional"
+            }
+        ],
         "passPercentage": 90,
         "featured": true,
         "certificate": "available",
@@ -285,7 +403,18 @@
         "quizzes": 10,
         "price": "3900",
         "review": 10,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 4.8,
+                "text": "Excellent course for financial planning. It helped me manage my investments better.",
+                "author": "Rahul Mehta - Professional"
+            },
+            {
+                "rating": 4.7,
+                "text": "Very informative and easy to follow. Perfect for beginners in finance.",
+                "author": "Priya Nair - Student"
+            }
+        ],
         "passPercentage": 90,
         "featured": false,
         "certificate": "available",
@@ -319,7 +448,18 @@
         "price": "8500",
         "oldPrice": "8900",
         "review": 25,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 4.9,
+                "text": "This course improved my HR management skills significantly. Very well structured.",
+                "author": "Anjali Kapoor - Professional"
+            },
+            {
+                "rating": 5.0,
+                "text": "Amazing content with real-world HR scenarios. Highly recommended.",
+                "author": "Rakesh Singh - Manager"
+            }
+        ],
         "passPercentage": 90,
         "featured": false,
         "certificate": "available",
@@ -353,7 +493,18 @@
         "price": "4900",
         "oldPrice": "9900",
         "review": 25,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 4.7,
+                "text": "A great course to understand marketing fundamentals and strategies.",
+                "author": "Neeraj Gupta - Student"
+            },
+            {
+                "rating": 4.8,
+                "text": "Helped me improve my marketing campaigns at work.",
+                "author": "Pallavi Jain - Professional"
+            }
+        ],
         "passPercentage": 90,
         "featured": true,
         "certificate": "available",
@@ -387,7 +538,18 @@
         "price": "9500",
         "oldPrice": "9900",
         "review": 25,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 5.0,
+                "text": "One of the best SEO courses I’ve taken. Practical and result-oriented.",
+                "author": "Siddharth Rao - Professional"
+            },
+            {
+                "rating": 4.9,
+                "text": "Loved the real-world examples and tools covered in this course.",
+                "author": "Megha Patel - Student"
+            }
+        ],
         "passPercentage": 90,
         "featured": false,
         "certificate": "available",
@@ -421,7 +583,18 @@
         "price": "5800",
         "oldPrice": "6500",
         "review": 12,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 3.2,
+                "text": "Interesting topic but could use better explanations and examples.",
+                "author": "Kiran Kumar - Student"
+            },
+            {
+                "rating": 3.5,
+                "text": "Good advanced content but not beginner-friendly.",
+                "author": "Vikram Desai - Professional"
+            }
+        ],
         "passPercentage": 80,
         "featured": false,
         "certificate": "available",
@@ -454,6 +627,18 @@
         "quizzes": 64,
         "price": "7500",
         "review": 8,
+        "reviews": [
+            {
+                "rating": 4.4,
+                "text": "Good introduction to robotics concepts and automation systems.",
+                "author": "Aravind R - Student"
+            },
+            {
+                "rating": 4.5,
+                "text": "Nice hands-on examples. Could include more advanced projects.",
+                "author": "Nikita Shah - Professional"
+            }
+        ],
         "passPercentage": 80,
         "featured": true,
         "certificate": "available",
@@ -486,7 +671,18 @@
         "quizzes": 47,
         "price": "4900",
         "review": 15,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 4.9,
+                "text": "Very detailed course with excellent practical applications.",
+                "author": "Manoj Verma - Professional"
+            },
+            {
+                "rating": 5.0,
+                "text": "Helped me understand embedded systems deeply.",
+                "author": "Akhil Reddy - Student"
+            }
+        ],
         "passPercentage": 80,
         "featured": false,
         "certificate": "available",
@@ -520,6 +716,18 @@
         "price": "4900",
         "oldPrice": "6900",
         "review": 24,
+        "reviews": [
+            {
+                "rating": 2.6,
+                "text": "Content is decent but needs better structure.",
+                "author": "Ravi Teja - Student"
+            },
+            {
+                "rating": 2.8,
+                "text": "Some good concepts but lacks depth in practical implementation.",
+                "author": "Pooja Sharma - Professional"
+            }
+        ],
         "passPercentage": 80,
         "featured": true,
         "certificate": "available",
@@ -553,6 +761,18 @@
         "price": "2499",
         "oldPrice": "2999",
         "review": 9,
+        "reviews": [
+            {
+                "rating": 2.0,
+                "text": "Basic content only. Needs more advanced design examples.",
+                "author": "Karthik M - Student"
+            },
+            {
+                "rating": 1.9,
+                "text": "Not very detailed. Could be improved significantly.",
+                "author": "Deepa Nair - Professional"
+            }
+        ],
         "passPercentage": 80,
         "featured": false,
         "certificate": "available",
@@ -585,6 +805,18 @@
         "price": "2999",
         "oldPrice": "4499",
         "review": 12,
+        "reviews": [
+            {
+                "rating": 3.9,
+                "text": "Good overview of construction planning concepts.",
+                "author": "Ajay Singh - Professional"
+            },
+            {
+                "rating": 4.0,
+                "text": "Helpful for beginners in construction management.",
+                "author": "Ritu Sharma - Student"
+            }
+        ],
         "passPercentage": 80,
         "featured": true,
         "certificate": "available",
@@ -617,6 +849,18 @@
         "price": "6500",
         "oldPrice": "7900",
         "review": 17,
+        "reviews": [
+            {
+                "rating": 4.2,
+                "text": "Solid fundamentals in structural engineering.",
+                "author": "Harish Kumar - Student"
+            },
+            {
+                "rating": 4.3,
+                "text": "Well explained concepts with practical examples.",
+                "author": "Sandeep Rao - Professional"
+            }
+        ],
         "passPercentage": 80,
         "featured": false,
         "certificate": "available",
@@ -648,6 +892,18 @@
         "quizzes": 29,
         "price": "5500",
         "review": 24,
+        "reviews": [
+            {
+                "rating": 3.3,
+                "text": "Interesting subject but explanations could be clearer.",
+                "author": "Nidhi Agarwal - Student"
+            },
+            {
+                "rating": 3.4,
+                "text": "Good introduction but needs more depth.",
+                "author": "Aman Khurana - Professional"
+            }
+        ],
         "passPercentage": 80,
         "featured": false,
         "certificate": "available",
@@ -679,6 +935,18 @@
         "quizzes": 66,
         "price": "7900",
         "review": 17,
+        "reviews": [
+            {
+                "rating": 1.5,
+                "text": "Very complex and not beginner-friendly.",
+                "author": "Rakesh Yadav - Student"
+            },
+            {
+                "rating": 1.8,
+                "text": "Needs better explanations and structure.",
+                "author": "Sunita Verma - Guardian"
+            }
+        ],
         "passPercentage": 80,
         "featured": true,
         "certificate": "available",
@@ -711,6 +979,18 @@
         "price": "3500",
         "oldPrice": "9900",
         "review": 28,
+        "reviews": [
+            {
+                "rating": 4.1,
+                "text": "Good introduction to nanotechnology concepts.",
+                "author": "Ankit Sharma - Student"
+            },
+            {
+                "rating": 4.2,
+                "text": "Interesting course with practical insights.",
+                "author": "Priya Kapoor - Professional"
+            }
+        ],
         "passPercentage": 80,
         "featured": false,
         "certificate": "available",
@@ -742,6 +1022,18 @@
         "quizzes": 6,
         "price": "3000",
         "review": 4,
+        "reviews": [
+            {
+                "rating": 2.9,
+                "text": "Basic concepts are covered but lacks depth.",
+                "author": "Varun Mehta - Student"
+            },
+            {
+                "rating": 3.0,
+                "text": "Could improve with more real-world examples.",
+                "author": "Rohini Das - Professional"
+            }
+        ],
         "passPercentage": 80,
         "featured": true,
         "certificate": "available",
@@ -773,6 +1065,18 @@
         "quizzes": 17,
         "price": "4500",
         "review": 2,
+        "reviews": [
+            {
+                "rating": 3.7,
+                "text": "Decent course for understanding human body basics.",
+                "author": "Kavya R - Student"
+            },
+            {
+                "rating": 3.8,
+                "text": "Good explanations but could be more interactive.",
+                "author": "Dr. Meena Iyer - Professional"
+            }
+        ],
         "passPercentage": 80,
         "featured": false,
         "certificate": "available",

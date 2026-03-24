@@ -30,6 +30,7 @@ const HeaderTwo = () => {
     return (
         <>
             <header className="header-style-1">
+                {windowWidth > 991 && (
                 <div className="header-topbar topbar-style-1">
                     <div className="container">
                         <div className="row justify-content-between align-items-center">
@@ -53,11 +54,12 @@ const HeaderTwo = () => {
                         </div>
                     </div>
                 </div>
+                )}
                 <div className={`header-navbar navbar-sticky ${windowWidth <= 991 ? 'mobile-menu' : ''}`} >
                     <div className="container">
                         <div className="d-flex align-items-center justify-content-between">
                             <div className="site-logo">
-                                <Link to="#">
+                                <Link to={`${process.env.PUBLIC_URL}/`}>
                                     <img src={`${process.env.PUBLIC_URL}/assets/images/1111.png`} alt="Course Thumb" class="img-fluid" />
                                 </Link>
                             </div>

@@ -1,4 +1,5 @@
 import './App.css';
+import './common/footer/footer-styles.css';
 import { Route, BrowserRouter, Routes } from 'react-router-dom';
 import ScrollToTop from './common/ScrollToTop';
 import HomeTwo from './components/pages/Home02';
@@ -13,7 +14,10 @@ import CourseDetailsTwo from './components/pages/CourseDetailsTwo';
 import CourseDetailsThree from './components/pages/CourseDetailsThree';
 import CourseDetailsFour from './components/pages/CourseDetailsFour';
 import ContactPage from './components/pages/ContactPage';
-
+import PrivacyPolicy from './components/pages/PrivacyPolicy';
+import TermsConditions from './components/pages/TermsConditions';
+import HireFromUs from './components/pages/HireFromUs';
+import CampusAmbassador from './components/pages/CampusAmbassador';
 
 function App() {
 
@@ -23,7 +27,6 @@ function App() {
       <Routes>
 
         <Route exact path={`${process.env.PUBLIC_URL + '/'}`} element={<HomeTwo />} />
-        {/* <Route exact path={`${process.env.PUBLIC_URL + '/home-2'}`} element={<HomeTwo/>}/> */}
         <Route exact path={`${process.env.PUBLIC_URL + '/about'}`} element={<AboutMain />} />
         <Route exact path={`${process.env.PUBLIC_URL + '/Certification-Program'}`} element={<CourseOne />} />
         <Route exact path={`${process.env.PUBLIC_URL + '/Pro-Degree-Program'}`} element={<CourseTwo />} />
@@ -35,6 +38,10 @@ function App() {
         <Route exact path={`${process.env.PUBLIC_URL + '/course-details-three/:id'}`} element={<CourseDetailsThree />} />
         <Route exact path={`${process.env.PUBLIC_URL + '/course-details-four/:id'}`} element={<CourseDetailsFour />} />
         <Route exact path={`${process.env.PUBLIC_URL + '/contact'}`} element={<ContactPage />} />
+        <Route exact path={`${process.env.PUBLIC_URL + '/hire-from-us'}`} element={<HireFromUs />} />
+        <Route exact path={`${process.env.PUBLIC_URL + '/campus-ambassador'}`} element={<CampusAmbassador />} />
+        <Route exact path={`${process.env.PUBLIC_URL + '/privacy-policy'}`} element={<PrivacyPolicy />} />
+        <Route exact path={`${process.env.PUBLIC_URL + '/terms-and-conditions'}`} element={<TermsConditions />} />
 
       </Routes>
 

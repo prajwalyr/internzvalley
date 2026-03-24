@@ -18,7 +18,23 @@
         "price": "4500",
         "oldPrice": "8500",
         "review": 56,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 4.8,
+                "text": "As a data analyst, this Power BI course has transformed how I handle reporting. The DAX functions and visualization techniques are game-changers for my daily work.",
+                "author": "Priya Sharma - Professional"
+            },
+            {
+                "rating": 4.9,
+                "text": "Excellent course for anyone starting with Power BI. The step-by-step tutorials made complex concepts easy to grasp. Highly recommend!",
+                "author": "Rohan Gupta - Student"
+            },
+            {
+                "rating": 4.7,
+                "text": "My child learned so much from this course. The instructor's approach is engaging and suitable for young learners interested in data.",
+                "author": "Ananya Patel - Guardian"
+            }
+        ],
         "passPercentage": 80,
         "featured": true,
         "certificate": "available",
@@ -51,7 +67,18 @@
         "quizzes": 10,
         "price": "9999.00",
         "review": 25.0,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 4.8,
+                "text": "This data analytics course provided me with practical skills that I immediately applied at work. The statistical analysis section was particularly helpful.",
+                "author": "Vikram Kumar - Professional"
+            },
+            {
+                "rating": 4.9,
+                "text": "Great introduction to data analytics. The projects helped solidify my understanding of real-world applications.",
+                "author": "Sneha Reddy - Student"
+            }
+        ],
         "passPercentage": 90,
         "featured": false,
         "certificate": "available",
@@ -85,7 +112,28 @@
         "price": "2999",
         "oldPrice": "6999",
         "review": 23,
-        "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
+        "reviews": [
+            {
+                "rating": 5.0,
+                "text": "Perfect for beginners in Revit. The course covers all essential topics clearly and concisely.",
+                "author": "Aarav Jain - Student"
+            },
+            {
+                "rating": 4.9,
+                "text": "As an architect, this course enhanced my Revit skills significantly. The modeling techniques are top-notch.",
+                "author": "Kavya Singh - Professional"
+            },
+            {
+                "rating": 4.8,
+                "text": "My son enjoyed learning Revit through this course. It's well-structured and kept him engaged.",
+                "author": "Rajesh Verma - Guardian"
+            },
+            {
+                "rating": 5.0,
+                "text": "Comprehensive coverage of Revit features. I feel confident in my ability to use the software professionally now.",
+                "author": "Meera Iyer - Professional"
+            }
+        ],
         "passPercentage": 90,
         "featured": true,
         "certificate": "available",

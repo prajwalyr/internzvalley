@@ -19,7 +19,23 @@
         "oldPrice": "8500",
         "review": 56,
         "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
-        "passPercentage": 80,
+        "reviews": [
+            {
+                "rating": 4.8,
+                "text": "As a business analyst, this Excel course has been invaluable. The advanced formulas and data analysis techniques have streamlined my workflow significantly. Highly recommend for professionals looking to enhance their Excel skills.",
+                "author": "Priya Sharma - Professional"
+            },
+            {
+                "rating": 4.9,
+                "text": "Great course for beginners and intermediates alike. The instructor explains concepts clearly, and the practical exercises helped me apply what I learned immediately. My productivity at work has increased tremendously.",
+                "author": "Rohan Gupta - Student"
+            },
+            {
+                "rating": 4.7,
+                "text": "I enrolled my son in this course, and he's loving it. The step-by-step approach makes complex topics accessible. As a parent, I'm impressed with how engaged he is with the material.",
+                "author": "Ananya Patel - Guardian"
+            }
+        ],
         "featured": true,
         "certificate": "available",
         "filterParam": "Popularity",
@@ -64,7 +80,24 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Salesforce is important because it provides businesses with a comprehensive platform for managing customer relationships, sales processes, and marketing efforts.",
-        "details": "<h5>Course Description</h5> <p>Salesforce is important because it provides businesses with a comprehensive platform for managing customer relationships, sales processes, and marketing efforts.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Sales</li><li>Product/Service Knowledge</li><li>Communication Skills</li><li>Building Relationship</li><li>Prospecting and Lead Generation</li><li>Advanced Sales Techniques</li><li>Understanding Buyer Psychology</li><li>Negotiation Skills</li><li>Sales Process Optimization</li><li>Metrics and Performance Measurement</li></ul> "
+        "details": "<h5>Course Description</h5> <p>Salesforce is important because it provides businesses with a comprehensive platform for managing customer relationships, sales processes, and marketing efforts.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Sales</li><li>Product/Service Knowledge</li><li>Communication Skills</li><li>Building Relationship</li><li>Prospecting and Lead Generation</li><li>Advanced Sales Techniques</li><li>Understanding Buyer Psychology</li><li>Negotiation Skills</li><li>Sales Process Optimization</li><li>Metrics and Performance Measurement</li></ul> ",
+        "reviews": [
+            {
+                "rating": 4.9,
+                "text": "This Salesforce course is comprehensive and practical. As someone transitioning into CRM roles, the hands-on projects and real-world scenarios prepared me well for my new position. The instructor's expertise shines through.",
+                "author": "Vikram Kumar - Professional"
+            },
+            {
+                "rating": 4.8,
+                "text": "Excellent course content and delivery. The modules on sales processes and customer relationship management were particularly helpful. I've already started implementing what I learned in my internship.",
+                "author": "Sneha Reddy - Student"
+            },
+            {
+                "rating": 4.7,
+                "text": "My daughter wanted to learn Salesforce for her career goals. This course exceeded our expectations with its structured learning path and supportive community. She's more confident now.",
+                "author": "Arjun Rao - Guardian"
+            }
+        ]
     },
     {
         "id": 3,
@@ -98,6 +131,23 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "It is a document created and used by a person to present their background, skills, and accomplishments.",
-        "details": "<h5>Course Description</h5> <p>It is a document created and used by a person to present their background, skills, and accomplishments.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Technical Skills</li><li>Soft Skills</li><li>Professional Development</li></ul>"
+        "details": "<h5>Course Description</h5> <p>It is a document created and used by a person to present their background, skills, and accomplishments.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Technical Skills</li><li>Soft Skills</li><li>Professional Development</li></ul>",
+        "reviews": [
+            {
+                "rating": 4.6,
+                "text": "This resume building course provided practical tips and templates that helped me land my dream job. The focus on tailoring resumes to specific roles was particularly useful. Worth every penny.",
+                "author": "Kavya Singh - Professional"
+            },
+            {
+                "rating": 4.8,
+                "text": "As a recent graduate, I was struggling with my resume. This course gave me the confidence and tools to create a professional document that showcases my skills effectively. Highly recommended.",
+                "author": "Aarav Jain - Student"
+            },
+            {
+                "rating": 4.7,
+                "text": "I encouraged my son to take this course before applying to internships. The instructor's guidance on highlighting achievements and using action verbs made a big difference in his applications.",
+                "author": "Meera Iyer - Guardian"
+            }
+        ]
     }
 ]

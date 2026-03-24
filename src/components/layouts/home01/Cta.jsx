@@ -19,7 +19,7 @@ class Cta extends Component {
                                         <div className="cta-content ps-lg-4">
                                             <span className="subheading mb-10">Not sure where to start?</span>
                                             <h2 className="mb-20"> Start Your Growth Journey with Internzvalley</h2>
-                                            <Link to="https://docs.google.com/forms/d/e/1FAIpQLSfY2PklFx3b0bC2TaR-pMAFZozWY4xmBXDbSR75Jkm810JHOQ/viewform" className="btn btn-main rounded"> Join NOw</Link>
+                                            <Link to="https://docs.google.com/forms/d/e/1FAIpQLSfY2PklFx3b0bC2TaR-pMAFZozWY4xmBXDbSR75Jkm810JHOQ/viewform" className="btn btn-main rounded"> Join Now</Link>
                                         </div>
                                     </div>
                                 </div>

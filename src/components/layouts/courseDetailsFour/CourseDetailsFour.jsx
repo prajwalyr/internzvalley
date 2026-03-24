@@ -2,15 +2,11 @@ import React, { useState, useContext } from "react";
 import { useParams } from "react-router-dom";
 import { Accordion } from "react-bootstrap";
 import FsLightbox from "fslightbox-react";
-
 import { useAccordionButton } from "react-bootstrap/AccordionButton";
 import AccordionContext from "react-bootstrap/AccordionContext";
 import CourseData from "../../../data/course/CourseData1.json";
-
 import CurriculumTabContent from "../../../data/course/CurriculumTabContent.json";
-
 import RelatedCourses from "../courseDetailsTwo/RelatedCourses";
-
 import CourseInfo from "../courseDetailsTwo/CourseInfo";
 
 const CustomToggle = ({ children, eventKey }) => {
@@ -257,48 +253,34 @@ const CourseDetailsFour = () => {
                                             <div className="course-tab-content">
                                                 <div id="course-reviews">
                                                     <ul className="course-reviews-list">
-                                                        <li>
-                                                            <div className="course-review">
-                                                                <div className="course-single-review">
-                                                                    <div className="user-image">
-                                                                        <img
-                                                                            src="assets/images/blog/author.jpg"
-                                                                            alt="Author Thumb"
-                                                                        />
-                                                                    </div>
+                                                        {courseItem.reviews.map((review, index) => (
+                                                            <li key={index}>
+                                                                <div className="course-review">
+                                                                    <div className="course-single-review">
+                                                                        <div className="user-content user-review-content">
+                                                                            <div className="review-header mb-10">
+                                                                                <h4 className="user-name">{review.author}</h4>
 
-                                                                    <div className="user-content user-review-content">
-                                                                        <div className="review-header mb-10">
-                                                                            <h4 className="user-name">Tutori</h4>
-
-                                                                            <div className="rating review-stars-rated">
-                                                                                <a href="#">
-                                                                                    <i className="fa fa-star"></i>
-                                                                                </a>
-                                                                                <a href="#">
-                                                                                    <i className="fa fa-star"></i>
-                                                                                </a>
-                                                                                <a href="#">
-                                                                                    <i className="fa fa-star"></i>
-                                                                                </a>
-                                                                                <a href="#">
-                                                                                    <i className="fa fa-star"></i>
-                                                                                </a>
-                                                                                <a href="#">
-                                                                                    <i className="fa fa-star-half"></i>
-                                                                                </a>
+                                                                                <div className="rating review-stars-rated">
+                                                                                    {[...Array(5)].map((_, i) => (
+                                                                                        <a href="#" key={i}>
+                                                                                            <i className={`fa fa-star${i < Math.floor(review.rating) ? '' : i === Math.floor(review.rating) && review.rating % 1 !== 0 ? '-half' : ''}`}></i>
+                                                                                        </a>
+                                                                                    ))}
+                                                                                    <span className="rating-value">({review.rating})</span>
+                                                                                </div>
                                                                             </div>
-                                                                        </div>
 
-                                                                        <div className="review-text">
-                                                                            <div className="review-content">
-                                                                                {courseItem.reviewText}
+                                                                            <div className="review-text">
+                                                                                <div className="review-content">
+                                                                                    {review.text}
+                                                                                </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                            </div>
-                                                        </li>
+                                                            </li>
+                                                        ))}
                                                     </ul>
                                                 </div>
                                             </div>

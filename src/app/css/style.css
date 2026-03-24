@@ -4662,4 +4662,41 @@ Fixed top top bottom
 .footer-4 .copyright {
   color: #fff;
   opacity: 0.8;
+}/* custom footer menu style: horizontal and responsive */
+.footer-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  gap: 18px;
+  margin: 0;
+  padding: 0;
+}
+.footer-menu li {
+  list-style: none;
+  white-space: nowrap;
+}
+.footer-menu li a {
+  color: #fff;
+  opacity: 0.95;
+  padding: 0 6px;
+}
+.footer-menu li a:hover {
+  color: var(--theme-secondary-color);
+  opacity: 1;
+}
+.footer-socials a {
+  font-size: 20px;
+  margin-left: 12px;
+  color: #fff;
+}
+.footer-socials a:hover {
+  color: var(--theme-secondary-color);
+}
+@media (max-width: 992px) {
+  .footer-menu {
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+  }
 }
