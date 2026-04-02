@@ -15,8 +15,6 @@
         "student": 363,
         "lesson": 29,
         "quizzes": 12,
-        "price": "4500",
-        "oldPrice": "8500",
         "review": 56,
         "reviews": [
             {
@@ -65,7 +63,6 @@
         "student": 455,
         "lesson": 35,
         "quizzes": 10,
-        "price": "9999.00",
         "review": 25.0,
         "reviews": [
             {
@@ -109,8 +106,6 @@
         "student": 80,
         "lesson": 20,
         "quizzes": 15,
-        "price": "2999",
-        "oldPrice": "6999",
         "review": 23,
         "reviews": [
             {

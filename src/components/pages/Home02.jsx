@@ -21,13 +21,11 @@ const HomeTwo = () => {
       {/* <Features /> */}
       <About />
       <CourseCat01 />
-
       <CourseGridPopular />
       {/* <Cta /> */}
       <AboutComp />
       {/* <Process /> */}
       <Review />
-
       <Cta />
       <FooterTwo />
     </div>

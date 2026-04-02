@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import CourseData from '../../../data/course/CourseData.json';
+import CourseData from '../../../data/course/CourseData2.json';
 import CourseTypeOne from '../home02/CourseTypeOne';
 
 const CourseTypeFilter = ({ itemToShow }) => {
@@ -55,7 +55,7 @@ const CourseTypeFilter = ({ itemToShow }) => {
                             <h2 className="font-lg">Explore popular courses</h2>
                         </div>
 
-                        <div className="course-filter button-group isotop-filter filters-button-group d-flex justify-content-center">
+                        <div className="course-filter button-group isotop-filter filters-button-group d-flex justify-content-center flex-wrap gap-2" style={{ flexWrap: 'wrap', gap: '0.75rem' }}>
                             {FilterControls.map((filter) => (
                                 <button
                                     onClick={handleChange}
@@ -65,6 +65,7 @@ const CourseTypeFilter = ({ itemToShow }) => {
                                             ? "is-checked"
                                             : ""
                                     }
+                                    style={{ fontSize: 'clamp(0.85rem, 2vw, 1rem)', padding: 'clamp(0.5rem, 1vw, 0.75rem) clamp(1rem, 3vw, 1.5rem)', whiteSpace: 'nowrap' }}
                                 >
                                     {filter}
                                 </button>
@@ -73,9 +74,9 @@ const CourseTypeFilter = ({ itemToShow }) => {
                     </div>
                 </div>
 
-                <div className="row">
+                <div className="row" >
                     {visibleItems.map((item) => (
-                        <div className="col-lg-3 col-md-6 col-sm-6" key={item.id}>
+                        <div className="col-lg-4 col-md-6 col-sm-6" style={{ marginBottom: '20px' }} key={item.id}>
                             <CourseTypeOne data={item} />
                         </div>
                     ))}

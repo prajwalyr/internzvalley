@@ -577,6 +577,31 @@ BUTTONS STYLE
   border-color: var(--theme-primary-color);
 }
 
+.video-icon-btn {
+  width: 52px;
+  height: 52px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  /* border: 2px solid var(--theme-primary-color); */
+  background-color: var(--theme-secondary-color);
+  color: white;
+  font-size: 18px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+  transition: all 0.3s ease;
+}
+
+.video-icon-btn:hover,
+.video-icon-btn:focus {
+  background-color: var(--theme-primary-color);
+  color: #fff;
+  border-color: var(--theme-primary-color);
+}
+
+.video-icon-btn i {
+  font-size: 18px;
+}
+
 .btn-white {
   background: #fff;
   border-color: #fff;
@@ -2642,13 +2667,13 @@ portflio filter
 }
 .course-style-3 .course-thumb img {
   width: 100%;
-  border-radius: 4px;
+  border-radius: 15px;
 }
 .course-style-3 .category {
   background: var(--theme-primary-color);
   padding: 8px 20px;
   color: #fff;
-  border-radius: 7px;
+  border-radius: 15px;
   font-size: 14px;
   line-height: 14px;
   font-weight: 500;
@@ -4868,7 +4893,7 @@ Fixed top top bottom
 }
 
 .video-popup-wrapper img{
-  border-radius: 5px;
+  border-radius: 20px;
 }
 
 .video-popup-wrapper .position-to-top {

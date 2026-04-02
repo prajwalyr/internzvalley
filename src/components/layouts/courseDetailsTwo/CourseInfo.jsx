@@ -17,7 +17,7 @@ const CourseInfo = ({ data }) => {
         <div className="course-sidebar course-sidebar-2 mt-5 mt-lg-0">
             <div className="course-widget course-details-info">
                 
-                <div className="price-header">
+                {/* <div className="price-header">
                     <h2 className="course-price">
                         ₹{data.price === '0' ? 'Free' : data.price} 
                         <span>{data.oldPrice}</span>
@@ -28,7 +28,7 @@ const CourseInfo = ({ data }) => {
                             {discount}% off
                         </span>
                     )}
-                </div>
+                </div> */}
 
                 <ul className="course-sidebar-list">
 

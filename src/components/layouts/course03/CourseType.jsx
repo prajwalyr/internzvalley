@@ -43,17 +43,17 @@ const CourseType = ({ data, classes }) => {
                 </div>
 
                 <div className="course-footer mt-20 d-flex align-items-center justify-content-between">
-                    <div class="course-price">
+                    {/* <div class="course-price">
                         {
                             data.price === '0' ?
                                 <div className="price current-price">Free</div>
                             :
-                                <div className="price current-price">₹{data.price}</div>
+                                <div className="price current-price">{data.price}</div>
                         }
                         { 
                             data.oldPrice && <div className="price old-price">₹{data.oldPrice}</div> 
                         }
-                    </div>
+                    </div> */}
                     <Link
                         to={process.env.PUBLIC_URL + `/course-details-two/${data.id}`}
                         className="btn btn-main-outline btn-radius btn-sm"

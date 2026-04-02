@@ -86,6 +86,7 @@ class CourseGrid extends Component {
             ],
             Medical: [
                 'Anatomy and Physiology',
+                'Ai in Healthcare',
             ],
         };
 
