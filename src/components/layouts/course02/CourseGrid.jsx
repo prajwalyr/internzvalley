@@ -85,8 +85,10 @@ class CourseGrid extends Component {
                 'Aircraft Design',
             ],
             Medical: [
-                'Anatomy and Physiology',
+                'Genetic engineering and Crispr',
+                'Nanotechnology in Surgery',
                 'Ai in Healthcare',
+                'Anatomy and Physiology',
             ],
         };
 

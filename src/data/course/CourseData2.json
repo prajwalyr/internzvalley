@@ -1094,5 +1094,90 @@
         ],
         "excerpt": "AI in healthcare uses algorithms and machine learning to analyze complex medical data, enhancing diagnosis, treatment personalization, and operational efficiency. Key applications include early disease detection, robotic surgery, drug discovery, and administrative automation (e.g., AI scribes). While improving outcomes, it faces challenges with data bias and regulatory oversight.",
         "details": "<h5>Course Description</h5> <p>AI in healthcare uses algorithms and machine learning to analyze complex medical data, enhancing diagnosis, treatment personalization, and operational efficiency. Key applications include early disease detection, robotic surgery, drug discovery, and administrative automation (e.g., AI scribes). While improving outcomes, it faces challenges with data bias and regulatory oversight.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Core AI Applications in Modern Healthcare</li><li>Intermediate AI Applications in Diagnostics and Clinical Care</li><li>Advanced and Highly Trendy AI Topics</li><li>Future-Focused Clinical Innovation</li><li>Minor project</li><li>Major project</li></ul>"
+    },
+    {
+        "id": 26,
+        "title": "Nanotechnology in Surgery",
+        "description": "Nanotechnology in surgery involves using materials and devices at the atomic/molecular level to enhance precision, improve healing, and minimize invasiveness.",
+        "image": "nanos.png",
+        "instructor": "Anita Carter",
+        "duration": "45h 22m 14s",
+        "durationInHour": "45 Hours",
+        "durationInHourMinute": "45hr 22min",
+        "level": "Advanced",
+        "language": "English",
+        "deadline": "29 Mar, 2026",
+        "rating": "4.5",
+        "student": 248,
+        "lesson": 18,
+        "quizzes": 17,
+        "review": 2,
+        "reviews": [
+            {
+                "rating": 3.7,
+                "text": "Decent course for Nanotechnology in Surgery.",
+                "author": "Kavya R - Student"
+            },
+            {
+                "rating": 3.8,
+                "text": "Good explanations but could be more interactive.",
+                "author": "Dr. Meena Iyer - Professional"
+            }
+        ],
+        "passPercentage": 80,
+        "featured": false,
+        "certificate": "available",
+        "filterParam": "Popularity",
+        "categories": [
+            "Graphics Design"
+        ],
+        "videoLink": [
+            "https://www.youtube.com/watch?v=pNje3bWz7V8"
+        ],
+        "excerpt": "Nanotechnology in surgery involves using materials and devices at the atomic/molecular level to enhance precision, improve healing, and minimize invasiveness. Key applications include nanoparticle-based drug delivery, nanotextured implant coatings for improved integration, nanorobotics, and advanced surgical imaging.",
+        "details": "<h5>Course Description</h5> <p>Nanotechnology in surgery involves using materials and devices at the atomic/molecular level to enhance precision, improve healing, and minimize invasiveness. Key applications include nanoparticle-based drug delivery, nanotextured implant coatings for improved integration, nanorobotics, and advanced surgical imaging.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Foundations of Nanotechnology</li><li>Nanotechnology in Surgery</li><li>Advanced and Highly Trendy Nanotechnology Topics</li><li>Advanced Topics in Nanotechnology</li><li>Minor project</li><li>Major project</li></ul>"
+    },
+    {
+        "id": 27,
+        "title": "Genetic engineering and Crispr",
+        "description": "CRISPR-Cas9 is a highly precise, efficient, and cost-effective genetic engineering technology used to edit DNA in living organisms.",
+        "image": "tws.jpg",
+        "instructor": "Anita Carter",
+        "duration": "45h 22m 14s",
+        "durationInHour": "45 Hours",
+        "durationInHourMinute": "45hr 22min",
+        "level": "Advanced",
+        "language": "English",
+        "deadline": "2 Apr, 2026",
+        "rating": "4.2",
+        "student": 148,
+        "lesson": 25,
+        "quizzes": 24,
+        "review": 2,
+        "reviews": [
+            {
+                "rating": 4.7,
+                "text": "A great course to understand Genetic engineering and Crispr.",
+                "author": "Neeraj Gupta - Student"
+            },
+            {
+                "rating": 4.8,
+                "text": "Helped me improve my Genetic engineering skills.",
+                "author": "Pallavi Jain - Professional"
+            }
+        ],
+        "passPercentage": 80,
+        "featured": false,
+        "certificate": "available",
+        "filterParam": "Popularity",
+        "categories": [
+            "Graphics Design"
+        ],
+        "videoLink": [
+            "https://www.youtube.com/watch?v=pNje3bWz7V8"
+        ],
+        "excerpt": "CRISPR-Cas9 is a highly precise, efficient, and cost-effective genetic engineering technology used to edit DNA in living organisms. Adapted from bacterial immune systems, it utilizes a guide RNA (gRNA) to direct the Cas9 molecular scissors to a specific DNA sequence, allowing for targeted gene silencing, deletion, or insertion. It is used in medicine, agriculture, and research.",
+        "details": "<h5>Course Description</h5> <p>CRISPR-Cas9 is a highly precise, efficient, and cost-effective genetic engineering technology used to edit DNA in living organisms. Adapted from bacterial immune systems, it utilizes a guide RNA (gRNA) to direct the Cas9 molecular scissors to a specific DNA sequence, allowing for targeted gene silencing, deletion, or insertion. It is used in medicine, agriculture, and research.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Foundations of Genetic Engineering</li><li>CRISPR-Cas9 Technology</li><li>Advanced Applications of CRISPR</li><li>Ethical Considerations in Genetic Engineering</li><li>Minor project</li><li>Major project</li></ul>"
     }
+
 ]
