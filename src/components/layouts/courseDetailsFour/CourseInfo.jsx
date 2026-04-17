@@ -1,19 +1,19 @@
 import React from 'react';
 
 
-const CourseInfo = ( { data }) => {
+const CourseInfo = ({ data }) => {
     return (
 
         <div className="course-sidebar course-sidebar-2 mt-5 mt-lg-0">
             <div className="course-widget course-details-info">
-                
-                <div className="price-header">
+
+                {/* <div className="price-header">
                     <h2 className="course-price">{ data.price === '0' ? 'Free' : data.price } <span>{data.oldPrice}</span></h2>
                     <span className="course-price-badge onsale">39% off</span>
-                </div>
+                </div> */}
 
                 <ul className="course-sidebar-list">
-                    { data.level &&
+                    {data.level &&
                         <li>
                             <div className="d-flex justify-content-between align-items-center">
                                 <span><i className="ri-bar-chart-2-line"></i>Level</span>
@@ -22,13 +22,22 @@ const CourseInfo = ( { data }) => {
                         </li>
                     }
 
-                    { data.lesson &&
-                    <li>
-                        <div className="d-flex justify-content-between align-items-center">
-                            <span><i className="ri-draft-line"></i>Lectures</span>
-                            {data.lesson}
-                        </div>
-                    </li>
+                    {data.certificate &&
+                        <li>
+                            <div className="d-flex justify-content-between align-items-center">
+                                <span><i className="ri-medal-line"></i>Certificate</span>
+                                {data.certificate}
+                            </div>
+                        </li>
+                    }
+
+                    {data.lesson &&
+                        <li>
+                            <div className="d-flex justify-content-between align-items-center">
+                                <span><i className="ri-draft-line"></i>Lectures</span>
+                                {data.lesson}
+                            </div>
+                        </li>
                     }
 
                     <li>
@@ -43,7 +52,7 @@ const CourseInfo = ( { data }) => {
                             {data.duration}
                         </div>
                     </li>
-                        <li>
+                    <li>
                         <div className="d-flex justify-content-between align-items-center">
                             <span><i className="ri-translate"></i>Language</span>
                             {data.language}
@@ -59,7 +68,7 @@ const CourseInfo = ( { data }) => {
                 </ul>
                 <div className="buy-btn">
                     <button className="button button-enroll-course btn btn-main-2 rounded">
-                        <i className="ri-shopping-cart-2-line me-2"></i> Enroll Course 
+                        <i className="ri-shopping-cart-2-line me-2"></i> Enroll Course
                     </button>
                 </div>
 
@@ -73,7 +82,7 @@ const CourseInfo = ( { data }) => {
                 </div>
             </div>
         </div>
-        
+
     )
 }
 

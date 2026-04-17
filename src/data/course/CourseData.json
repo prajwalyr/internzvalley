@@ -35,7 +35,7 @@
         ],
         "passPercentage": 80,
         "featured": true,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Popularity",
         "categories": [
             "Language Learning",
@@ -45,7 +45,7 @@
             "https://www.youtube.com/watch?v=kGPr-RYZT2o"
         ],
         "excerpt": "Power BI is essential for businesses as it allows for easy visualization and analysis of data, enabling informed decision-making. Its user-friendly interface and powerful capabilities streamline data management processes, enhancing overall efficiency and productivity. ",
-        "details": "<h5>Course Description</h5> <p>Power BI is used for business intelligence (BI), transforming raw data from various sources into interactive, visual reports and dashboards to help people understand trends, make data-driven decisions, and monitor performance across an organization, from sales to operations, using features like AI insights and self-service analytics. It allows users to connect to data, clean and model it, create visualizations (charts, maps, graphs), and share these insights easily within apps or the web.  </p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Power BI</li><li>Data Sources and Data Loading</li><li>Data Modeling and Visualization Basics</li><li>Intermediate Data Modeling and DAX</li><li>Advanced Visualization Techniques</li><li>Advanced Data Transformation and Modeling</li><li>Advanced Analytics and Power BI Service</li></ul> "
+        "details": "<h5>Course Description</h5> <p>Power BI is used for business intelligence (BI), transforming raw data from various sources into interactive, visual reports and dashboards to help people understand trends, make data-driven decisions, and monitor performance across an organization, from sales to operations, using features like AI insights and self-service analytics. It allows users to connect to data, clean and model it, create visualizations (charts, maps, graphs), and share these insights easily within apps or the web.  </p>"
     },
     {
         "id": 2,
@@ -78,7 +78,7 @@
         ],
         "passPercentage": 90,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Trending",
         "categories": [
             "Business",
@@ -88,7 +88,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Data analytics converts raw data into actionable insights. It includes a range of tools, technologies, and processes used to find trends and solve problems by using data. Data analytics can shape business processes, improve decision-making, and foster business growth.",
-        "details": "<h5>Course Description</h5> <p>Data analytics is the process of collecting, transforming, and organizing data to derive actionable insights, predict trends, and inform business decisions. It encompasses techniques like data mining, machine learning, and visualization to optimize performance and efficiency, often categorized into descriptive, diagnostic, predictive, and prescriptive types.</p><h5>Key Aspects of Data Analytics</h5><ul><li><strong>Descriptive:</strong> Analyzes historical data to understand what happened.</li><li><strong>Diagnostic:</strong> Investigates data to understand why something happened.</li><li><strong>Predictive:</strong> Uses historical data to forecast future outcomes.</li><li><strong>Prescriptive:</strong> Recommends specific actions based on predictive insights.</li></ul><h5>The Process</h5><p>Data analytics involves identifying requirements, collecting data,cleaning/processing it, analyzing it, and sharing findings through visualizations.</p><h5>Key Tools</h5><p>Popular tools include Python, R, SQL, Excel, Tableau, Power BI, Apache Spark, and SAP Analytics Cloud.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Data Analytics and Basic Statistics</li><li>Exploratory Data Analysis (EDA) and Intermediate Statistics</li><li>Machine Learning Basics</li><li>Advanced Topics and Final Project</li></ul> "
+        "details": "<h5>Course Description</h5> <p>Data analytics is the process of collecting, transforming, and organizing data to derive actionable insights, predict trends, and inform business decisions. It encompasses techniques like data mining, machine learning, and visualization to optimize performance and efficiency, often categorized into descriptive, diagnostic, predictive, and prescriptive types.</p><h5>Key Aspects of Data Analytics</h5><ul><li><strong>Descriptive:</strong> Analyzes historical data to understand what happened.</li><li><strong>Diagnostic:</strong> Investigates data to understand why something happened.</li><li><strong>Predictive:</strong> Uses historical data to forecast future outcomes.</li><li><strong>Prescriptive:</strong> Recommends specific actions based on predictive insights.</li></ul><h5>The Process</h5><p>Data analytics involves identifying requirements, collecting data,cleaning/processing it, analyzing it, and sharing findings through visualizations.</p><h5>Key Tools</h5><p>Popular tools include Python, R, SQL, Excel, Tableau, Power BI, Apache Spark, and SAP Analytics Cloud.</p>"
     },
     {
         "id": 3,
@@ -131,7 +131,7 @@
         ],
         "passPercentage": 90,
         "featured": true,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Featured",
         "categories": [
             "App Development",
@@ -141,6 +141,6 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Rivets are essential fasteners used in construction and manufacturing to join materials together securely. They provide strength, durability, and structural integrity, making them indispensable in various industries such as aerospace, automotive, and engineering.",
-        "details": "<h5>Course Description</h5> <p>A rivet is a permanent mechanical fastener used to join two or more materials, such as metal, plastic, or leather. It consists of a smooth cylindrical shaft (the shank) with a pre-formed head on one end and a tail on the other.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Rivet</li><li>Intermediate Rivet Programming</li><li>Object-Oriented Programming (OOP) in Rivet</li><li>Advanced Rivet Concepts</li><li>Web Development with Rivet</li><li>Advanced Web Development and Projects</li></ul> <h5>Practice and Projects Documentation and Resources Assessments and Feedback</h5> "
+        "details": "<h5>Course Description</h5> <p>A rivet is a permanent mechanical fastener used to join two or more materials, such as metal, plastic, or leather. It consists of a smooth cylindrical shaft (the shank) with a pre-formed head on one end and a tail on the other.</p>"
     }
 ]

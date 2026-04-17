@@ -5,15 +5,15 @@
         "description": "Accelerate your web development skills with hands-on training in HTML, CSS, and JavaScript.",
         "image": "fswb.png",
         "instructor": "James Carlson",
-        "duration": "3h 14m 20s",
-        "durationInHour": "3 Hours",
-        "durationInHourMinute": "3hr 14min",
-        "level": "Intermediate",
+        "duration": "20h 14m 20s",
+        "durationInHour": "20+ Hours",
+        "durationInHourMinute": "20hr 14min",
+        "level": "Advanced",
         "language": "English",
-        "deadline": "25 Dec, 2023",
+        "deadline": "28 Mar, 2026",
         "rating": "4.9",
         "student": 763,
-        "lesson": 29,
+        "lesson": 30,
         "quizzes": 12,
         "review": 56,
         "reviews": [
@@ -35,7 +35,7 @@
         ],
         "passPercentage": 80,
         "featured": true,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Popularity",
         "categories": [
             "Language Learning",
@@ -45,7 +45,7 @@
             "https://www.youtube.com/watch?v=kGPr-RYZT2o"
         ],
         "excerpt": "Web Development is the process of creating, optimizing, and managing websites and applications to ensure efficient functionality, user-friendly design, and a seamless digital experience.",
-        "details": "<h5>Course Description</h5> <p>Full stack web development involves building complete web applications by managing both client-side (frontend) user interfaces and server-side (backend) logic, databases, and APIs. It requires proficiency in HTML, CSS, JavaScript, frameworks like React or Node.js, and database management (SQL/NoSQL) to handle the entire development process, from design to deployment. </p><h5>What You’ll Learn From This Course</h5> <ul> <li>Core Foundations and Tools</li><li>Programming with Java and JavaScript</li><li>Front-End Development with Modern Frameworks</li><li>Advanced CSS</li></ul> "
+        "details": "<h5>Course Description</h5> <p>Full stack web development involves building complete web applications by managing both client-side (frontend) user interfaces and server-side (backend) logic, databases, and APIs. It requires proficiency in HTML, CSS, JavaScript, frameworks like React or Node.js, and database management (SQL/NoSQL) to handle the entire development process, from design to deployment. </p>"
     },
     {
         "id": 2,
@@ -53,12 +53,12 @@
         "description": "Involves safeguarding digital systems, networks, and data from unauthorized access, attacks, and breaches.",
         "image": "cyber.png",
         "instructor": "Nancy Phipps",
-        "duration": "8h 15m 30s",
-        "durationInHour": "8 Hours",
-        "durationInHourMinute": "8hr 15min",
+        "duration": "20h 00m 00s",
+        "durationInHour": "20+ Hours",
+        "durationInHourMinute": "20hr 00min",
         "level": "Advanced",
         "language": "English",
-        "deadline": "28 Dec, 2023",
+        "deadline": "28 Mar, 2026",
         "rating": "4.8",
         "student": 255,
         "lesson": 35,
@@ -78,7 +78,7 @@
         ],
         "passPercentage": 90,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Popularity",
         "categories": [
             "Business",
@@ -88,7 +88,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Cyber Security is the practice of protecting digital systems, networks, and data from unauthorized access, attacks, and breaches, ensuring the confidentiality and integrity of sensitive information.",
-        "details": "<h5>Course Description</h5> <p>Cybersecurity protects systems, networks, and data from digital attacks, while ethical hacking (or penetration testing) involves authorized attempts to break into systems to find and fix vulnerabilities. Ethical hackers simulate malicious attacks to strengthen defense strategies developed by cybersecurity professionals. </p><h5>What You’ll Learn From This Course</h5> <ul> <li>Fundamentals of Cybersecurity</li><li>Operating Systems, Networking & Infrastructure Basics</li><li>Access Controls, Identity Management & Authentication</li><li>Cryptography & Secure Communication</li><li>Network Security & Endpoint Protection</li><li>Monitoring, Incident Response & Forensics</li><li>Governance, Risk, and Compliance (GRC)</li></ul>"
+        "details": "<h5>Course Description</h5> <p>Cybersecurity protects systems, networks, and data from digital attacks, while ethical hacking (or penetration testing) involves authorized attempts to break into systems to find and fix vulnerabilities. Ethical hackers simulate malicious attacks to strengthen defense strategies developed by cybersecurity professionals. </p>"
     },
     {
         "id": 3,
@@ -101,7 +101,7 @@
         "durationInHourMinute": "15hr 35min",
         "level": "Beginner",
         "language": "English",
-        "deadline": "30 Nov, 2023",
+        "deadline": "28 Mar, 2026",
         "rating": "5.0",
         "student": 550,
         "lesson": 40,
@@ -131,7 +131,7 @@
         ],
         "passPercentage": 90,
         "featured": true,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Popularity",
         "categories": [
             "App Development",
@@ -141,7 +141,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "AI is changing industries by analyzing data, making predictions, and automating tasks. From healthcare to entertainment, its impact is growing, unlocking new possibilities for the future.",
-        "details": "<h5>Course Description</h5> <p>Artificial Intelligence (AI) is a branch of computer science that enables systems to perform tasks requiring human-like intelligence, such as learning, reasoning, problem-solving, and perception. Today's AI is exclusively \"Artificial Narrow Intelligence\" (ANI), designed for specific tasks like chat, image recognition, or data analysis, rather than self-aware general intelligence.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Foundations of AI and Programming</li><li>Core Machine Learning</li><li>Deep Learning Fundamentals</li><li>AI Applications & Specializations</li><li>AI in Practice & Deployment</li><li>AI & Future Trends</li></ul>"
+        "details": "<h5>Course Description</h5> <p>Artificial Intelligence (AI) is a branch of computer science that enables systems to perform tasks requiring human-like intelligence, such as learning, reasoning, problem-solving, and perception. Today's AI is exclusively \"Artificial Narrow Intelligence\" (ANI), designed for specific tasks like chat, image recognition, or data analysis, rather than self-aware general intelligence.</p>"
     },
     {
         "id": 4,
@@ -154,7 +154,7 @@
         "durationInHourMinute": "25hr 15min",
         "level": "Intermediate",
         "language": "English",
-        "deadline": "10 Dec, 2023",
+        "deadline": "28 Mar, 2026",
         "rating": "5.0",
         "student": 250,
         "lesson": 55,
@@ -179,7 +179,7 @@
         ],
         "passPercentage": 80,
         "featured": true,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Trending",
         "categories": [
             "Marketing",
@@ -189,7 +189,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Data science is the art of extracting meaningful insights from data to drive informed decisions and solve complex problems.",
-        "details": "<h5>Course Description</h5> <p>Data science is a multidisciplinary field that uses scientific methods, algorithms, and systems to extract actionable insights from structured and unstructured data. It combines statistics, computer science, and domain expertise to analyze, visualize, and model data for forecasting and decision-making.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Data Science Foundations</li><li>Data Visualization &Machine Learning</li><li>Advanced Machine Learning</li><li>Deep Learning</li><li>Big Data & Engineering</li><li>Deployment & MLOps</li><li>Advanced Topics in Data Science</li></ul>"
+        "details": "<h5>Course Description</h5> <p>Data science is a multidisciplinary field that uses scientific methods, algorithms, and systems to extract actionable insights from structured and unstructured data. It combines statistics, computer science, and domain expertise to analyze, visualize, and model data for forecasting and decision-making.</p>"
     },
     {
         "id": 5,
@@ -202,7 +202,7 @@
         "durationInHourMinute": "15hr 35min",
         "level": "Beginner",
         "language": "English",
-        "deadline": "27 Nov, 2023",
+        "deadline": "28 Mar, 2026",
         "rating": "4.7",
         "student": 243,
         "lesson": 58,
@@ -222,7 +222,7 @@
         ],
         "passPercentage": 80,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Trending",
         "categories": [
             "Web Development",
@@ -232,7 +232,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Java is a versatile programming language known for its platform independence, used in a wide range of applications.",
-        "details": "<h5>Course Description</h5> <p>Java is a high-level, general-purpose, memory-safe, object-oriented programming language. It is intended to let programmers write once, run anywhere, meaning that compiled Java code can run on all platforms that support Java without the need to recompile.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Basics & Core Java</li><li>Object-Oriented Programming</li><li>Advanced Java Fundamentals</li><li>I/O, Persistence & GUI</li><li>Web & Enterprise Java</li><li>Testing, Tools & Ecosystem</li><li>Collections Framework</li><li>Generics</li><li>Multithreading</li><li>GUI Programming with Swing</li><li>Database Connectivity with JDBC</li><li>Modern Trends & Emerging Topics</li></ul> "
+        "details": "<h5>Course Description</h5> <p>Java is a high-level, general-purpose, memory-safe, object-oriented programming language. It is intended to let programmers write once, run anywhere, meaning that compiled Java code can run on all platforms that support Java without the need to recompile.</p> "
     },
     {
         "id": 6,
@@ -245,7 +245,7 @@
         "durationInHourMinute": "26hr 18min",
         "level": "Advanced",
         "language": "English",
-        "deadline": "15 Nov, 2023",
+        "deadline": "28 Mar, 2026",
         "rating": "4.5",
         "student": 360,
         "lesson": 48,
@@ -275,7 +275,7 @@
         ],
         "passPercentage": 90,
         "featured": true,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Featured",
         "categories": [
             "Marketing",
@@ -285,7 +285,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Dive into the future with machine learning, a cutting-edge technology that empowers systems to learn, adapt, and redefine possibilities, ushering in a new era of intelligent solutions and endless potential .",
-        "details": "<h5>Course Description</h5> <p>Machine learning (ML) is a subset of artificial intelligence (AI) that enables computers to learn from data and improve their performance without being explicitly programmed for every task. By identifying patterns and relationships within data, ML models make predictions, classify information, and automate tasks.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Foundations</li><li>ML with Python</li><li>Core Algorithms & Model Building</li><li>Advanced ML Techniques</li><li>Deep Learning & Specialized Models</li><li>Responsible ML & Emerging Trends</li></ul>"
+        "details": "<h5>Course Description</h5> <p>Machine learning (ML) is a subset of artificial intelligence (AI) that enables computers to learn from data and improve their performance without being explicitly programmed for every task. By identifying patterns and relationships within data, ML models make predictions, classify information, and automate tasks.</p>"
     },
     {
         "id": 7,
@@ -298,7 +298,7 @@
         "durationInHourMinute": "13hr 38min",
         "level": "Intermediate",
         "language": "English",
-        "deadline": "21 Dec, 2023",
+        "deadline": "28 Mar, 2026",
         "rating": "4.6",
         "student": 450,
         "lesson": 85,
@@ -318,7 +318,7 @@
         ],
         "passPercentage": 80,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Featured",
         "categories": [
             "Web Development",
@@ -328,7 +328,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Structured Query Language is a domain-specific language used to manage data, especially in a relational database management system. It is particularly useful in handling structured data, i.e., data incorporating relations among entities and variables.",
-        "details": "<h5>Course Description</h5> <p>SQL (Structured Query Language) is a standard programming language used to interact with relational databases. It is specifically designed for managing and manipulating structured data stored in tables (rows and columns). </p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Databases and SQL</li><li>SQL Syntax and Data Types</li><li>Retrieving Data with SELECT</li><li>Sorting and Filtering Data</li><li>Working with Functions and Aggregate Functions</li><li>Joining Tables</li><li>Subqueries and Nested Queries</li><li>Modifying Data with INSERT, UPDATE, DELETE</li></ul> "
+        "details": "<h5>Course Description</h5> <p>SQL (Structured Query Language) is a standard programming language used to interact with relational databases. It is specifically designed for managing and manipulating structured data stored in tables (rows and columns). </p>"
     },
     {
         "id": 8,
@@ -341,7 +341,7 @@
         "durationInHourMinute": "8hr 13min",
         "level": "Intermediate",
         "language": "English",
-        "deadline": "15 Nov, 2023",
+        "deadline": "28 Mar, 2026",
         "rating": "4.7",
         "student": 135,
         "lesson": 35,
@@ -361,7 +361,7 @@
         ],
         "passPercentage": 90,
         "featured": true,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Trending",
         "categories": [
             "Business",
@@ -370,8 +370,7 @@
         "videoLink": [
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
-        "excerpt": "Stock market investing involves buying and selling shares of companies with the aim of growing wealth through capital.",
-        "details": "<h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Stock Market</li><li>Fundamental Analysis</li><li>Market Order Types</li><li>Introduction to Options</li><li>Advanced Technical Analysis</li><li>Advanced Trading Strategies</li><li>Trading Psychology</li><li>Portfolio Management</li></ul>"
+        "excerpt": "Stock market investing involves buying and selling shares of companies with the aim of growing wealth through capital."
     },
     {
         "id": 9,
@@ -384,7 +383,7 @@
         "durationInHourMinute": "15hr 24min",
         "level": "Advanced",
         "language": "English",
-        "deadline": "24 Dec, 2023",
+        "deadline": "28 Mar, 2026",
         "rating": "4.8",
         "student": 250,
         "lesson": 20,
@@ -404,7 +403,7 @@
         ],
         "passPercentage": 90,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Popularity",
         "categories": [
             "Language Learning",
@@ -414,7 +413,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "It is the art of managing money, investing, making decisions to secure financial future.",
-        "details": "<h5>Course Description</h5> <p>Finance is the art of managing money, encompassing budgeting, investing, and making informed decisions to secure your financial future.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Finance</li><li>Financial Statements and Analysis</li><li>Time Value of Money</li><li>Investment Valuation</li><li>Risk and Return</li><li>Financial Markets and Instruments</li><li>Corporate Finance</li><li>Specialized Topics and Applications</li></ul>"
+        "details": "<h5>Course Description</h5> <p>Finance is the art of managing money, encompassing budgeting, investing, and making informed decisions to secure your financial future.</p>"
     },
     {
         "id": 10,
@@ -427,7 +426,7 @@
         "durationInHourMinute": "17hr 19min",
         "level": "Beginner",
         "language": "English",
-        "deadline": "12 Dec, 2023",
+        "deadline": "28 Mar, 2026",
         "rating": "5.0",
         "student": 350,
         "lesson": 45,
@@ -447,7 +446,7 @@
         ],
         "passPercentage": 90,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Featured",
         "categories": [
             "Business",
@@ -457,7 +456,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Unlocking the full potential of your team, human resources is the powerhouse behind talent cultivation, fostering a vibrant workplace culture, and propelling organizational success through strategic workforce management.",
-        "details": "<h5>Course Description</h5> <p>Human Resources (HR) is the department responsible for managing the employee life cycle, acting as the vital link between an organization and its workforce. Key HR functions include recruiting and onboarding, compensation and benefits management, training and development, and ensuring compliance with employment laws to foster a safe, productive workplace.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to HR Trends</li><li>HR Technology and Automation</li><li>Remote Work and Hybrid Workforce</li><li>Diversity, Equity, and Inclusion (DEI)</li><li>Talent Acquisition and Retention</li><li>Performance Management and Learning & Development</li><li>Employee Well-being and Mental Health</li><li>Future HR Trends and Predictions</li></ul>"
+        "details": "<h5>Course Description</h5> <p>Human Resources (HR) is the department responsible for managing the employee life cycle, acting as the vital link between an organization and its workforce. Key HR functions include recruiting and onboarding, compensation and benefits management, training and development, and ensuring compliance with employment laws to foster a safe, productive workplace.</p>"
     },
     {
         "id": 11,
@@ -470,7 +469,7 @@
         "durationInHourMinute": "3hr 14min",
         "level": "Intermediate",
         "language": "English",
-        "deadline": "18 Nov, 2023",
+        "deadline": "28 Mar, 2026",
         "rating": "4.7",
         "student": 185,
         "lesson": 85,
@@ -490,7 +489,7 @@
         ],
         "passPercentage": 90,
         "featured": true,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Trending",
         "categories": [
             "Machine Learning",
@@ -500,7 +499,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Marketing refers to activities a company undertakes to promote the buying or selling of a product or service. Marketing includes advertising, selling, and delivering products to consumers or other businesses. Some marketing is done by affiliates on behalf of a company.",
-        "details": "<h5>Course Description</h5> <p>Marketing is the strategic process of identifying customer needs, creating value, and building relationships to satisfy demand while generating profit. It encompasses all activities—from product development to promotion—that capture attention, communicate value, and drive sales. Key approaches include digital, traditional, and content marketing, focusing on customer-centricity.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Marketing</li><li>Market Research</li><li>Consumer Behavior</li><li>Branding and Positioning</li><li>Digital Marketing</li><li>Content Marketing</li><li>Email Marketing and Automation</li><li>Marketing Analytics and Measurement</li></ul>"
+        "details": "<h5>Course Description</h5> <p>Marketing is the strategic process of identifying customer needs, creating value, and building relationships to satisfy demand while generating profit. It encompasses all activities—from product development to promotion—that capture attention, communicate value, and drive sales. Key approaches include digital, traditional, and content marketing, focusing on customer-centricity.</p>"
     },
     {
         "id": 12,
@@ -513,7 +512,7 @@
         "durationInHourMinute": "19hr 45min",
         "level": "Advanced",
         "language": "English",
-        "deadline": "28 Dec, 2022",
+        "deadline": "28 Mar, 2026",
         "rating": "5.0",
         "student": 257,
         "lesson": 44,
@@ -533,7 +532,7 @@
         ],
         "passPercentage": 90,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Trending",
         "categories": [
             "Machine Learning",
@@ -543,7 +542,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Digital marketing utilizes online channels and strategies to connect with and influence potential customers, driving brand awareness and sales growth.",
-        "details": "<h5>Course Description</h5> <p>SEO (Search Engine Optimization) in digital marketing is the process of improving a website's visibility in organic (unpaid) search engine results to increase traffic and brand credibility. It involves optimizing on-page content, technical site structure, and off-page factors like backlinks to rank higher on search engines such as Google.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Digital Marketing</li><li>Website Essentials</li><li>Search Engine Optimization (SEO)</li><li>Content Marketing</li><li>Social Media Marketing</li><li>Pay-Per-Click Advertising (PPC)</li><li>Email Marketing and Automation</li><li>Analytics and Data Interpretation</li><li>Influencer Marketing and Affiliate Marketing</li></ul>"
+        "details": "<h5>Course Description</h5> <p>SEO (Search Engine Optimization) in digital marketing is the process of improving a website's visibility in organic (unpaid) search engine results to increase traffic and brand credibility. It involves optimizing on-page content, technical site structure, and off-page factors like backlinks to rank higher on search engines such as Google.</p>"
     },
     {
         "id": 13,
@@ -556,7 +555,7 @@
         "durationInHourMinute": "15hr 25min",
         "level": "Advanced",
         "language": "English",
-        "deadline": "23 Dec, 2022",
+        "deadline": "28 Mar, 2026",
         "rating": "3.0",
         "student": 320,
         "lesson": 25,
@@ -576,7 +575,7 @@
         ],
         "passPercentage": 80,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Popularity",
         "categories": [
             "Machine Learning",
@@ -586,7 +585,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Electromagnetic suspension (EMS) uses actively controlled electromagnets to create attractive or repulsive forces for contactless support, commonly used in maglev trains for levitation and increasingly in luxury vehicles.",
-        "details": "<h5>Course Description</h5> <p>Electromagnetic suspension (EMS) is the magnetic levitation of an object achieved by constantly altering the strength of a magnetic field produced by electromagnets using a feedback loop. In most cases the levitation effect is mostly due to permanent magnets as they have no power dissipation, with electromagnets only used to stabilise the effect.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Electromagnetism</li><li>Magnetic Forces and Fields</li><li>Electromagnetic Induction</li><li>Introduction to Electromagnetic Suspension</li><li>Design and Simulation</li><li>Construction and Prototyping</li><li>Control Systems and Stability</li></ul>"
+        "details": "<h5>Course Description</h5> <p>Electromagnetic suspension (EMS) is the magnetic levitation of an object achieved by constantly altering the strength of a magnetic field produced by electromagnets using a feedback loop. In most cases the levitation effect is mostly due to permanent magnets as they have no power dissipation, with electromagnets only used to stabilise the effect.</p>"
     },
     {
         "id": 14,
@@ -599,7 +598,7 @@
         "durationInHourMinute": "12hr 17min",
         "level": "Beginner",
         "language": "English",
-        "deadline": "25 Dec, 2022",
+        "deadline": "28 Mar, 2026",
         "rating": "4.3",
         "student": 247,
         "lesson": 15,
@@ -619,7 +618,7 @@
         ],
         "passPercentage": 80,
         "featured": true,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Trending",
         "categories": [
             "Graphics Design",
@@ -629,7 +628,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Robotics: Unleashing intelligent machinesthat dance with data, bridging imagination and innovation for a future where technology amplifies human potential.",
-        "details": "<h5>Course Description</h5> <p>Robotics and automation combine advanced engineering, computer science, and AI to design systems that perform tasks autonomously, enhancing efficiency, safety, and precision in industries like manufacturing, healthcare, and logistics. While automation covers broader software/hardware processes, robotics specifically involves programmable, physical machines.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>INTRODUCTION TO ROBOTICS AND BASIC ELECTRONICS</li><li>MICROCONTROLLERS AND MICROPROCESSOR BASICS</li><li>ROBOT KINEMATICS</li><li>INTRODUCTION TO CONTROL SYSTEMS</li><li>INTRODUCTION TO COMPUTER VISION</li><li>INTRODUCTION TO ROBOT OPERATING SYSTEM (ROS)</li></ul>"
+        "details": "<h5>Course Description</h5> <p>Robotics and automation combine advanced engineering, computer science, and AI to design systems that perform tasks autonomously, enhancing efficiency, safety, and precision in industries like manufacturing, healthcare, and logistics. While automation covers broader software/hardware processes, robotics specifically involves programmable, physical machines.</p>"
     },
     {
         "id": 15,
@@ -662,7 +661,7 @@
         ],
         "passPercentage": 80,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Featured",
         "categories": [
             "Marketing",
@@ -672,7 +671,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "An embedded system is a specialized computer system—a combination of a computer processor, computer memory, and input/output peripheral devices—that has a dedicated function within a larger mechanical or electronic system.",
-        "details": "<h5>Course Description</h5> <p>An embedded system is a computer system—a combination of a computer processor, computer memory, and input/output peripheral devices—that has a dedicated function within a larger mechanical or electronic system.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Embedded Systems</li><li>Microcontrollers and Microprocessors</li><li>Programming Embedded Systems</li><li>Peripherals and Interfacing</li><li>Embedded System Design</li><li>Operating Systems for Embedded Systems</li><li>Embedded System Communication</li><li>Embedded System Testing and Debugging</li><li>Embedded System Project</li></ul>"
+        "details": "<h5>Course Description</h5> <p>An embedded system is a computer system—a combination of a computer processor, computer memory, and input/output peripheral devices—that has a dedicated function within a larger mechanical or electronic system.</p>"
     },
     {
         "id": 16,
@@ -685,7 +684,7 @@
         "durationInHourMinute": "22hr 25min",
         "level": "Beginner",
         "language": "English",
-        "deadline": "12 Dec, 2022",
+        "deadline": "28 Mar, 2026",
         "rating": "2.5",
         "student": 298,
         "lesson": 49,
@@ -705,7 +704,7 @@
         ],
         "passPercentage": 80,
         "featured": true,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Popularity",
         "categories": [
             "Machine Learning",
@@ -715,7 +714,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "The Internet of Things (IoT) revolutionizes our world by linking everyday devices, enabling seamless data exchange.",
-        "details": "<h5>Course Description</h5> <p>The Internet of Things (IoT) revolutionizes our world by linking everyday devices, enabling seamless data exchange. From smart homes to healthcare and industries, IoT enhances efficiency and connectivity. However, concerns linger about privacy and security. Despite challenges, IoT’s potential to transform our lives is undeniable, opening new frontiers in technology and connectivity.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to IoT Fundamentals</li><li>IoT Architecture</li><li>Introduction to microcontrollers</li><li>Wireless communication technologies</li><li>Data Management and Analytics in IoT</li><li>IoT Applications and Future Trends</li><li>Final Project</li></ul>"
+        "details": "<h5>Course Description</h5> <p>The Internet of Things (IoT) revolutionizes our world by linking everyday devices, enabling seamless data exchange. From smart homes to healthcare and industries, IoT enhances efficiency and connectivity. However, concerns linger about privacy and security. Despite challenges, IoT’s potential to transform our lives is undeniable, opening new frontiers in technology and connectivity.</p>"
     },
     {
         "id": 17,
@@ -728,7 +727,7 @@
         "durationInHourMinute": "14hr 13min",
         "level": "Intermediate",
         "language": "English",
-        "deadline": "18 Dec, 2022",
+        "deadline": "28 Mar, 2026",
         "rating": "1.8",
         "student": 25,
         "lesson": 13,
@@ -748,7 +747,7 @@
         ],
         "passPercentage": 80,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Trending",
         "categories": [
             "Business"
@@ -757,7 +756,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "AutoCAD is a project-oriented course for computer-aided design and covers all the topics required in this software course. This course is mostly for civil engineering students who want to pursue their careers in design and space management. This course is basically for architecture students.",
-        "details": "<h5>Course Description</h5> <p>AutoCAD is a project-oriented course for computer-aided design and covers all the topics required in this software course. This course is mostly for civil engineering students who want to pursue their careers in design and space management. This course is basically for architecture students.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to AutoCAD</li><li>2D Drawing in AutoCAD</li><li>Dimensioning and Annotation</li><li>Advanced 2D Drawing</li><li>Advanced 2D Drawing</li><li>Introduction to 3D Modeling</li><li>Advanced 3D Modeling</li><li>AutoCAD Customization</li><li>Sheet Sets and Layouts</li></ul>"
+        "details": "<h5>Course Description</h5> <p>AutoCAD is a project-oriented course for computer-aided design and covers all the topics required in this software course. This course is mostly for civil engineering students who want to pursue their careers in design and space management. This course is basically for architecture students.</p>"
     },
     {
         "id": 18,
@@ -770,7 +769,7 @@
         "durationInHourMinute": "11hr 42min",
         "level": "Advanced",
         "language": "English",
-        "deadline": "15 Dec, 2022",
+        "deadline": "28 Mar, 2026",
         "rating": "3.8",
         "student": 258,
         "lesson": 14,
@@ -790,7 +789,7 @@
         ],
         "passPercentage": 80,
         "featured": true,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Featured",
         "categories": [
             "Business"
@@ -799,7 +798,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Construction Planning & Management involves strategic organization and coordination of resources, time, and budget to efficiently execute and complete construction projects.",
-        "details": "<h5>Course Description</h5> <p>Construction Planning & Management involves strategic organization and coordination of resources, time, and budget to efficiently execute and complete construction projects.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Construction Planning & Management</li><li>Aircraft Performance Parameters</li><li>Workspace</li><li>Introduction to Revit</li><li>Introduction to STAA PRO</li><li>Defining and assigning</li></ul>"
+        "details": "<h5>Course Description</h5> <p>Construction Planning & Management involves strategic organization and coordination of resources, time, and budget to efficiently execute and complete construction projects.</p>"
     },
     {
         "id": 19,
@@ -812,7 +811,7 @@
         "durationInHourMinute": "19hr 28min",
         "level": "Beginner",
         "language": "English",
-        "deadline": "16 Dec, 2022",
+        "deadline": "28 Mar, 2026",
         "rating": "4.1",
         "student": 198,
         "lesson": 57,
@@ -832,7 +831,7 @@
         ],
         "passPercentage": 80,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Trending",
         "categories": [
             "Marketing"
@@ -841,7 +840,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Structural analysis is a branch of solid mechanics which uses simplified models for solids like bars, beams and shells for engineering decision making. Its main objective is to determine the effect of loads on the physical structures and their components.",
-        "details": "<h5>Course Description</h5> <p>Structural analysis is a branch of solid mechanics which uses simplified models for solids like bars, beams and shells for engineering decision making. Its main objective is to determine the effect of loads on the physical structures and their components.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Structural Analysis</li><li>Structural Loads and Supports</li><li>Analysis of Determinate Structures</li><li>Analysis of Determinate Structures (Continued)</li><li>Influence Lines and Moving Loads</li><li>Introduction to Indeterminate Structures</li><li>Structural Stability and Design Considerations</li></ul>"
+        "details": "<h5>Course Description</h5> <p>Structural analysis is a branch of solid mechanics which uses simplified models for solids like bars, beams and shells for engineering decision making. Its main objective is to determine the effect of loads on the physical structures and their components.</p>"
     },
     {
         "id": 20,
@@ -854,7 +853,7 @@
         "durationInHourMinute": "25hr 14min",
         "level": "Intermediate",
         "language": "English",
-        "deadline": "17 Dec, 2022",
+        "deadline": "28 Mar, 2026",
         "rating": "3.1",
         "student": 149,
         "lesson": 34,
@@ -874,7 +873,7 @@
         ],
         "passPercentage": 80,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Popularity",
         "categories": [
             "App Development"
@@ -883,7 +882,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Bioinformatics, as related to genetics and genomics, is a scientific subdiscipline that involves using computer technology to collect, store, analyze and disseminate biological data and information, such as DNA and amino acid sequences or annotations about those sequences.",
-        "details": "<h5>Course Description</h5> <p>Bioinformatics, as related to genetics and genomics, is a scientific subdiscipline that involves using computer technology to collect, store, analyze and disseminate biological data and information, such as DNA and amino acid sequences or annotations about those sequences.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Bioinformatics</li><li>Sequence Analysis</li><li>Genome Analysis</li><li>Structural Bioinformatics</li><li>Transcriptomics</li><li>Proteomics and Metabolomics</li><li>Phylogenetics and Evolutionary Analysis</li><li>Systems Biology and Network Analysis</li></ul>"
+        "details": "<h5>Course Description</h5> <p>Bioinformatics, as related to genetics and genomics, is a scientific subdiscipline that involves using computer technology to collect, store, analyze and disseminate biological data and information, such as DNA and amino acid sequences or annotations about those sequences.</p>"
     },
     {
         "id": 21,
@@ -896,7 +895,7 @@
         "durationInHourMinute": "17hr 19min",
         "level": "Advanced",
         "language": "English",
-        "deadline": "17 Dec, 2022",
+        "deadline": "28 Mar, 2026",
         "rating": "1.3",
         "student": 74,
         "lesson": 36,
@@ -916,7 +915,7 @@
         ],
         "passPercentage": 80,
         "featured": true,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Featured",
         "categories": [
             "Machine Learning"
@@ -925,7 +924,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Genetic engineering, or genetic modification, is the direct manipulation of an organism's DNA using biotechnology to alter its genetic makeup, enabling the transfer of genes within or across species.",
-        "details": "<h5>Course Description</h5> <p>Transcending Knowledge, Empowering Future!</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Genetic Engineering</li><li>Molecular Biology Basics</li><li>Recombinant DNA Technology</li><li>Gene Expression and Regulation</li><li>Synthetic Biology</li><li>Agricultural and Environmental Engineering</li><li>Ethics, Safety, and Societal Impact</li><li>Challenges and Future Directions</li></ul>"
+        "details": "<h5>Course Description</h5> <p>Transcending Knowledge, Empowering Future!</p>"
     },
     {
         "id": 22,
@@ -938,7 +937,7 @@
         "durationInHourMinute": "37hr 48min",
         "level": "Beginner",
         "language": "English",
-        "deadline": "19 Dec, 2022",
+        "deadline": "28 Mar, 2026",
         "rating": "4.0",
         "student": 489,
         "lesson": 47,
@@ -958,7 +957,7 @@
         ],
         "passPercentage": 80,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Trending",
         "categories": [
             "Language Learning"
@@ -967,7 +966,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Nanotechnology is the manipulation of matter on a near-atomic scale to produce new structures, materials and devices. The technology promises scientific advancement in many sectors such as medicine, consumer products, energy, materials, and manufacturing.",
-        "details": "<h5>Course Description</h5> <p>Nanotechnology is the manipulation of matter on a near-atomic scale to produce new structures, materials and devices. The technology promises scientific advancement in many sectors such as medicine, consumer products, energy, materials, and manufacturing.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Nanotechnology</li><li>Nanomaterials</li><li>Fabrication Techniques</li><li>Characterization Techniques</li><li>Nanoelectronics</li><li>Nanomedicine</li><li>Nanotechnology in Energy</li><li>Emerging Trends and Future Directions</li></ul>"
+        "details": "<h5>Course Description</h5> <p>Nanotechnology is the manipulation of matter on a near-atomic scale to produce new structures, materials and devices. The technology promises scientific advancement in many sectors such as medicine, consumer products, energy, materials, and manufacturing.</p>"
     },
     {
         "id": 23,
@@ -980,7 +979,7 @@
         "durationInHourMinute": "17hr 41min",
         "level": "Intermediate",
         "language": "English",
-        "deadline": "23 Dec, 2022",
+        "deadline": "28 Mar, 2026",
         "rating": "2.7",
         "student": 471,
         "lesson": 32,
@@ -1000,7 +999,7 @@
         ],
         "passPercentage": 80,
         "featured": true,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Featured",
         "categories": [
             "Business"
@@ -1009,7 +1008,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "It merges engineering and innovation for optimal aerodynamics and efficiency.",
-        "details": "<h5>Course Description</h5> <p>AIRCRAFT DESIGN MERGES ENGINEERING AND INNOVATION FOR OPTIMAL AERODYNAMICS AND EFFICIENCY. BALANCING WEIGHT AND PERFORMANCE, DESIGNERS EMPLOY ADVANCED MATERIALS AND TECHNOLOGIES, EMPHASIZING SAFETY AND SUSTAINABILITY. THE CONSTANT QUEST FOR INNOVATION DEFINES THE EVOLVING LANDSCAPE OF AIRCRAFT DESIGN, SHAPING THE FUTURE OF AVIATION.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Aircraft Design</li><li>Aircraft Performance Parameters</li><li>Wing Design</li><li>Fuselage and Empennage Design</li><li>Landing Gear Design</li><li>Structural Analysis</li></ul>"
+        "details": "<h5>Course Description</h5> <p>AIRCRAFT DESIGN MERGES ENGINEERING AND INNOVATION FOR OPTIMAL AERODYNAMICS AND EFFICIENCY. BALANCING WEIGHT AND PERFORMANCE, DESIGNERS EMPLOY ADVANCED MATERIALS AND TECHNOLOGIES, EMPHASIZING SAFETY AND SUSTAINABILITY. THE CONSTANT QUEST FOR INNOVATION DEFINES THE EVOLVING LANDSCAPE OF AIRCRAFT DESIGN, SHAPING THE FUTURE OF AVIATION.</p>"
     },
     {
         "id": 24,
@@ -1022,7 +1021,7 @@
         "durationInHourMinute": "15hr 22min",
         "level": "Advanced",
         "language": "English",
-        "deadline": "29 Dec, 2022",
+        "deadline": "28 Mar, 2026",
         "rating": "3.6",
         "student": 248,
         "lesson": 15,
@@ -1042,7 +1041,7 @@
         ],
         "passPercentage": 80,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Popularity",
         "categories": [
             "Graphics Design"
@@ -1051,7 +1050,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "The Anatomy and Physiology module introduces the structure and function of the human body. You will read about the cells, tissues and membranes that make up our bodies and how our major systems function to help us develop and stay healthy.",
-        "details": "<h5>Course Description</h5> <p>The Anatomy and Physiology module introduces the structure and function of the human body. You will read about the cells, tissues and membranes that make up our bodies and how our major systems function to help us develop and stay healthy.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Anatomy</li><li>Musculoskeletal System</li><li>Cardiovascular and Respiratory Systems</li><li>Digestive and Urinary Systems</li><li>Neurophysiology and Endocrine System</li><li>Homeostasis and Regulation</li><li>Muscle Physiology and Movement</li><li>Integration and Review</li></ul>"
+        "details": "<h5>Course Description</h5> <p>The Anatomy and Physiology module introduces the structure and function of the human body. You will read about the cells, tissues and membranes that make up our bodies and how our major systems function to help us develop and stay healthy.</p>"
     },
     {
         "id": 25,
@@ -1064,7 +1063,7 @@
         "durationInHourMinute": "15hr 22min",
         "level": "Advanced",
         "language": "English",
-        "deadline": "29 Dec, 2022",
+        "deadline": "28 Mar, 2026",
         "rating": "3.9",
         "student": 448,
         "lesson": 28,
@@ -1084,7 +1083,7 @@
         ],
         "passPercentage": 80,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Popularity",
         "categories": [
             "Graphics Design"
@@ -1093,7 +1092,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "AI in healthcare uses algorithms and machine learning to analyze complex medical data, enhancing diagnosis, treatment personalization, and operational efficiency. Key applications include early disease detection, robotic surgery, drug discovery, and administrative automation (e.g., AI scribes). While improving outcomes, it faces challenges with data bias and regulatory oversight.",
-        "details": "<h5>Course Description</h5> <p>AI in healthcare uses algorithms and machine learning to analyze complex medical data, enhancing diagnosis, treatment personalization, and operational efficiency. Key applications include early disease detection, robotic surgery, drug discovery, and administrative automation (e.g., AI scribes). While improving outcomes, it faces challenges with data bias and regulatory oversight.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Core AI Applications in Modern Healthcare</li><li>Intermediate AI Applications in Diagnostics and Clinical Care</li><li>Advanced and Highly Trendy AI Topics</li><li>Future-Focused Clinical Innovation</li><li>Minor project</li><li>Major project</li></ul>"
+        "details": "<h5>Course Description</h5> <p>AI in healthcare uses algorithms and machine learning to analyze complex medical data, enhancing diagnosis, treatment personalization, and operational efficiency. Key applications include early disease detection, robotic surgery, drug discovery, and administrative automation (e.g., AI scribes). While improving outcomes, it faces challenges with data bias and regulatory oversight.</p>"
     },
     {
         "id": 26,
@@ -1106,7 +1105,7 @@
         "durationInHourMinute": "45hr 22min",
         "level": "Advanced",
         "language": "English",
-        "deadline": "29 Mar, 2026",
+        "deadline": "28 Mar, 2026",
         "rating": "4.5",
         "student": 248,
         "lesson": 18,
@@ -1126,7 +1125,7 @@
         ],
         "passPercentage": 80,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Popularity",
         "categories": [
             "Graphics Design"
@@ -1135,7 +1134,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Nanotechnology in surgery involves using materials and devices at the atomic/molecular level to enhance precision, improve healing, and minimize invasiveness. Key applications include nanoparticle-based drug delivery, nanotextured implant coatings for improved integration, nanorobotics, and advanced surgical imaging.",
-        "details": "<h5>Course Description</h5> <p>Nanotechnology in surgery involves using materials and devices at the atomic/molecular level to enhance precision, improve healing, and minimize invasiveness. Key applications include nanoparticle-based drug delivery, nanotextured implant coatings for improved integration, nanorobotics, and advanced surgical imaging.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Foundations of Nanotechnology</li><li>Nanotechnology in Surgery</li><li>Advanced and Highly Trendy Nanotechnology Topics</li><li>Advanced Topics in Nanotechnology</li><li>Minor project</li><li>Major project</li></ul>"
+        "details": "<h5>Course Description</h5> <p>Nanotechnology in surgery involves using materials and devices at the atomic/molecular level to enhance precision, improve healing, and minimize invasiveness. Key applications include nanoparticle-based drug delivery, nanotextured implant coatings for improved integration, nanorobotics, and advanced surgical imaging.</p>"
     },
     {
         "id": 27,
@@ -1148,7 +1147,7 @@
         "durationInHourMinute": "45hr 22min",
         "level": "Advanced",
         "language": "English",
-        "deadline": "2 Apr, 2026",
+        "deadline": "28 Mar, 2026",
         "rating": "4.2",
         "student": 148,
         "lesson": 25,
@@ -1168,7 +1167,7 @@
         ],
         "passPercentage": 80,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Popularity",
         "categories": [
             "Graphics Design"
@@ -1177,7 +1176,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "CRISPR-Cas9 is a highly precise, efficient, and cost-effective genetic engineering technology used to edit DNA in living organisms. Adapted from bacterial immune systems, it utilizes a guide RNA (gRNA) to direct the Cas9 molecular scissors to a specific DNA sequence, allowing for targeted gene silencing, deletion, or insertion. It is used in medicine, agriculture, and research.",
-        "details": "<h5>Course Description</h5> <p>CRISPR-Cas9 is a highly precise, efficient, and cost-effective genetic engineering technology used to edit DNA in living organisms. Adapted from bacterial immune systems, it utilizes a guide RNA (gRNA) to direct the Cas9 molecular scissors to a specific DNA sequence, allowing for targeted gene silencing, deletion, or insertion. It is used in medicine, agriculture, and research.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Foundations of Genetic Engineering</li><li>CRISPR-Cas9 Technology</li><li>Advanced Applications of CRISPR</li><li>Ethical Considerations in Genetic Engineering</li><li>Minor project</li><li>Major project</li></ul>"
+        "details": "<h5>Course Description</h5> <p>CRISPR-Cas9 is a highly precise, efficient, and cost-effective genetic engineering technology used to edit DNA in living organisms. Adapted from bacterial immune systems, it utilizes a guide RNA (gRNA) to direct the Cas9 molecular scissors to a specific DNA sequence, allowing for targeted gene silencing, deletion, or insertion. It is used in medicine, agriculture, and research.</p>"
     }
 
 ]

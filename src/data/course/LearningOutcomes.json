@@ -1,0 +1,1994 @@
+{
+    "1": [
+        {
+            "title": "Core Foundations and Tools",
+            "content": [
+                "Internet and Web Fundamentals: HTTP/HTTPS, DNS, client-server architecture, hosting, SSL/TLS",
+                "HTML5 and Semantic Structure: Advanced document structure, semantic elements, forms, accessibility attributes",
+                "CSS3 and Modern Styling: Responsive design, Flexbox, CSS Grid, variables, animations, transitions",
+                "Development Tools: Visual Studio Code, Git/GitHub, npm/pnpm, Chrome DevTools",
+                "Accessibility and SEO Essentials: Semantic HTML, WCAG guidelines, metadata optimization"
+            ]
+        },
+        {
+            "title": "Programming with Java and JavaScript",
+            "content": [
+                "Java Programming Essentials: Object-oriented programming, inheritance, polymorphism, exception handling, collections framework",
+                "Advanced Java Concepts: Multithreading, JDBC, servlets, JSP, Spring Boot framework fundamentals",
+                "JavaScript (ES6+): Modern syntax, arrow functions, destructuring, promises, async/await, modules",
+                "DOM and Browser APIs: Event handling, fetch API, storage management, geolocation",
+                "TypeScript Integration: Strong typing, interfaces, generics, strict mode compilation"
+            ]
+        },
+        {
+            "title": "Front-End Development with Modern Frameworks",
+            "content": [
+                "React.js Ecosystem: Components, hooks, state management, routing, context API",
+                "Alternative Frameworks: Vue.js, Angular, or Svelte (as per specialization track)",
+                "State Management: Redux, Context API",
+                "State Management Solutions: Redux, Zustand, or Pinia",
+                "Styling Approaches: Tailwind CSS, CSS Modules, Styled Components",
+                "User Experience and Design Systems: Responsive interfaces, accessibility testing, internationalization"
+            ]
+        },
+        {
+            "title": "Advanced CSS",
+            "content": [
+                "Flexbox and CSS Grid for layout.",
+                "CSS preprocessors (e.g., Sass) introduction.",
+                "JavaScript Fundamentals."
+            ]
+        },
+        {
+            "title": "Advanced Front-End Engineering",
+            "content": [
+                "Performance Optimization: Lazy loading, code splitting, Vite/Webpack bundling, image optimization",
+                "Progressive Web Applications (PWA): Service workers, offline support, caching strategies",
+                "Testing and Quality Assurance: Unit testing, integration testing, end-to-end testing with Jest, Cypress, Playwright",
+                "Mobile-First and Cross-Platform Design: Adaptive layouts, touch optimization, device compatibility",
+                "UI/UX Engineering Principles: Design thinking, wireframing, usability standards"
+            ]
+        },
+        {
+            "title": "Back-End Development and Databases",
+            "content": [
+                "Server-Side Programming: REST API development, GraphQL, middleware design",
+                "Java with Spring Boot: Microservices, dependency injection, RESTful services",
+                "Node.js with Express/NestJS: Event-driven architecture, middleware, authentication services",
+                "Databases: Relational (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis) systems",
+                "Object-Relational Mapping (ORM): Prisma, TypeORM, Hibernate",
+                "Authentication and Authorization: JWT, OAuth 2.0, Role-Based Access Control (RBAC)",
+                "Data Validation and Security Practices: Input sanitization, encryption, schema validation",
+                "File and Media Handling: Cloud storage solutions (AWS S3, Firebase Storage)"
+            ]
+        },
+        {
+            "title": "DevOps, Deployment, and Security",
+            "content": [
+                "Continuous Integration/Continuous Deployment (CI/CD): GitHub Actions, GitLab CI/CD pipelines",
+                "Containerization and Orchestration: Docker basics, Kubernetes fundamentals",
+                "Cloud Deployment: AWS, Google Cloud, Microsoft Azure, Vercel, Netlify",
+                "Monitoring and Observability: Logging, error tracking, performance metrics (Sentry, New Relic)",
+                "Security Engineering: OWASP Top 10, HTTPS enforcement, CORS management, rate limiting",
+                "Scalability and Reliability: CDN integration, caching strategies, load balancing, microservices vs monolithic architecture"
+            ]
+        }
+    ],
+    "2": [
+        {
+            "title": "Fundamentals of Cybersecurity",
+            "content": [
+                "Introduction to Cybersecurity: definitions, key concepts, scope",
+                "The CIA Triad: Confidentiality, Integrity, Availability",
+                "Security Principles: least privilege, defense-in-depth, secure by design",
+                "Cyber Threat Landscape: malware, phishing, social engineering, ransomware, insider threats",
+                "Basic Laws, Ethics & Policies: privacy laws, regulatory basics, ethical hacking"
+            ]
+        },
+        {
+            "title": "Operating Systems, Networking & Infrastructure Basics",
+            "content": [
+                "Operating Systems Overview: Windows, Linux fundamentals, file systems, user permissions",
+                "Command Line Basics: navigating, basic scripting, shell commands",
+                "Networking Fundamentals: OSI & TCP/IP models; protocols; ports & services; routers, switches",
+                "IP Addressing & Subnetting; IPv4 vs IPv6",
+                "Network Devices & Firewalls: types, operation, basic configuration"
+            ]
+        },
+        {
+            "title": "Access Controls, Identity Management & Authentication",
+            "content": [
+                "Authentication vs Authorization vs Accounting (AAA)",
+                "Common Authentication Methods: passwords, multi-factor authentication, biometrics",
+                "Identity & Access Management (IAM)- Basics: roles, groups, permissions",
+                "Directory Services Overview (e.g. Active Directory basics)",
+                "Best Practices for Access Control & IAM"
+            ]
+        },
+        {
+            "title": "Cryptography & Secure Communication",
+            "content": [
+                "Cryptographic Basics: symmetric vs asymmetric encryption, hashing, digital signatures",
+                "SSL/TLS, HTTPS: how secure communications work",
+                "Key Management Basics: public keys, certificates, certificate authorities",
+                "Common Cryptographic Algorithms & Use Cases"
+            ]
+        },
+        {
+            "title": "Network Security & Endpoint Protection",
+            "content": [
+                "Network Security Layers: perimeter; internal segmentation",
+                "Firewalls, Intrusion Detection / Prevention Systems (IDS/IPS)",
+                "Virtual Private Networks (VPNs) basics & wireless security (WPA, WPA2, etc.)",
+                "Endpoint Security: anti-virus/anti-malware, patch management, host hardening"
+            ]
+        },
+        {
+            "title": "Monitoring, Incident Response & Forensics",
+            "content": [
+                "Security Operations Center (SOC) basics: roles, tools, log monitoring",
+                "Incident Response Lifecycle: detection, analysis, containment, eradication, recovery",
+                "Basic Digital Forensics: collection, preservation, chain of custody, simple analysis",
+                "Tools for Monitoring & Forensics: log analyzers, SIEM tools"
+            ]
+        },
+        {
+            "title": "Governance, Risk, and Compliance (GRC)",
+            "content": [
+                "Risk Management Basics: risk assessments, mitigation strategies",
+                "Security Frameworks & Standards: NIST, ISO 27001, etc.",
+                "Policies, Procedures & Best Practices: security policy creation, audit basics, compliance obligations",
+                "Business Continuity & Disaster Recovery: backup strategies, recovery planning"
+            ]
+        }
+    ],
+    "3": [
+        {
+            "title": "Foundations of AI and Programming",
+            "content": [
+                "Introduction to AI: history, applications, future scope",
+                "Python programming for AI (data structures, functions, OOP concepts)",
+                "Mathematics for AI: linear algebra, probability, statistics, calculus basics",
+                "Data handling & visualization: NumPy, Pandas, Matplotlib, Seaborn",
+                "Git & GitHub for version control"
+            ]
+        },
+        {
+            "title": "Core Machine Learning",
+            "content": [
+                "Supervised Learning: regression, classification, decision trees, random forests, SVM",
+                "Unsupervised Learning: clustering (K-Means, hierarchical), dimensionality reduction (PCA)",
+                "Model evaluation: accuracy, precision, recall, F1 score, confusion matrix",
+                "Bias & variance, overfitting vs underfitting",
+                "Feature engineering and data preprocessing"
+            ]
+        },
+        {
+            "title": "Deep Learning Fundamentals",
+            "content": [
+                "Neural Network Basics: perceptron, activation functions, backpropagation",
+                "Multi-Layer Perceptrons (MLP)",
+                "Convolutional Neural Networks (CNN) for image tasks",
+                "Recurrent Neural Networks (RNN), LSTM for sequential data",
+                "Regularization: dropout, batch normalization"
+            ]
+        },
+        {
+            "title": "AI Applications & Specializations",
+            "content": [
+                "Computer Vision: image classification, object detection (YOLO basics), image segmentation",
+                "Natural Language Processing (NLP): text preprocessing, sentiment analysis, word embeddings, introduction to transformers",
+                "Generative AI: GANs basics, introduction to diffusion models",
+                "Reinforcement Learning (Intro): agents, environment, reward system."
+            ]
+        },
+        {
+            "title": "AI in Practice & Deployment",
+            "content": [
+                "Model deployment with Flask / FastAPI",
+                "APIs for AI integration",
+                "Basics of Docker and containerization for AI models",
+                "Cloud deployment (AWS SageMaker, GCP AI Platform, Azure ML)",
+                "Edge AI basics (AI on mobile & IoT devices)"
+            ]
+        },
+        {
+            "title": "AI & Future Trends",
+            "content": [
+                "AI Ethics: bias, fairness, privacy, transparency",
+                "Responsible AI practices in engineering projects",
+                "Large Language Models (LLMs) & Prompt Engineering",
+                "AI in Robotics & IoT",
+                "Research directions: self-supervised learning, graph neural networks, quantum AI (intro)"
+            ]
+        }
+    ],
+    "4": [
+        {
+            "title": "Data Science Foundations",
+            "content": [
+                "Python programming for data science",
+                "Mathematics: linear algebra, probability, statistics",
+                "Data handling & visualization (NumPy, Pandas, Matplotlib)",
+                "Git & GitHub basics"
+            ]
+        },
+        {
+            "title": "Data Visualization & Machine Learning",
+            "content": [
+                "Supervised & Unsupervised Learning",
+                "Model evaluation & performance metrics",
+                "Feature engineering & preprocessing",
+                "Tools: Scikit-learn, Pandas"
+            ]
+        },
+        {
+            "title": "Advanced Machine Learning",
+            "content": [
+                "Ensemble methods (Boosting, Bagging)",
+                "Hyperparameter tuning",
+                "Handling imbalanced data"
+            ]
+        },
+        {
+            "title": "Deep Learning",
+            "content": [
+                "Neural networks (MLP, CNN, RNN, LSTM)",
+                "Transfer learning & pretrained models",
+                "Introduction to transformers"
+            ]
+        },
+        {
+            "title": "Big Data & Engineering",
+            "content": [
+                "Big data fundamentals (Hadoop, Spark)",
+                "Data pipelines & real-time analytics",
+                "SQL & NoSQL databases"
+            ]
+        },
+        {
+            "title": "Deployment & MLOps",
+            "content": [
+                "Model deployment with Flask / FastAPI",
+                "Docker & containerization",
+                "Monitoring & version control"
+            ]
+        },
+        {
+            "title": "Advanced Topics in Data Science",
+            "content": [
+                "Introduction to natural language processing (NLP) and text mining",
+                "Basics of deep learning and neural networks",
+                "Introduction to time series analysis",
+                "Introduction to recommendation systems",
+                "Ethics, bias & fairness",
+                "Data privacy & security",
+                "Explainable AI"
+            ]
+        }
+    ],
+    "5": [
+        {
+            "title": "Basics & Core Java",
+            "content": [
+                "Java introduction: JVM, JRE, JDK setup, history & features",
+                "Basic syntax: data types, variables, operators",
+                "Control structures: if-else, loops, switch statements",
+                "Arrays & String handling"
+            ]
+        },
+        {
+            "title": "Object-Oriented Programming",
+            "content": [
+                "Classes & Objects, Constructors & Methods",
+                "Inheritance, Polymorphism, Abstraction",
+                "Interfaces & Abstract Classes",
+                "Encapsulation, static vs instance members"
+            ]
+        },
+        {
+            "title": "Advanced Java Fundamentals",
+            "content": [
+                "Exception Handling and Assertions",
+                "Generics (classes, methods)",
+                "Collections Framework: List, Map, Set, Queue, etc.",
+                "Multithreading & Concurrency basics"
+            ]
+        },
+        {
+            "title": "I/O, Persistence & GUI",
+            "content": [
+                "File I/O: reading/writing files, streams & serialization",
+                "JDBC & database connectivity",
+                "GUI basics: Swing (UI components, event handling)",
+                "Modern GUI frameworks or tools (JavaFX or alternatives)"
+            ]
+        },
+        {
+            "title": "Web & Enterprise Java",
+            "content": [
+                "Servlets & JSP basics",
+                "Web application architecture, request/response model",
+                "Introduction to frameworks (Spring Boot / Jakarta EE)",
+                "RESTful APIs with Java"
+            ]
+        },
+        {
+            "title": "Testing, Tools & Ecosystem",
+            "content": [
+                "Unit testing frameworks: JUnit, Mockito",
+                "Build tools: Maven or Gradle",
+                "Version control with Git",
+                "Logging & debugging best practices"
+            ]
+        },
+        {
+            "title": "Collections Framework",
+            "content": [
+                "Overview of collections (List, Set, Map)",
+                "ArrayList, Linked List, HashSet, HashMap"
+            ]
+        },
+        {
+            "title": "Generics",
+            "content": [
+                "Introduction to generics",
+                "Generic classes and methods"
+            ]
+        },
+        {
+            "title": "Multithreading",
+            "content": [
+                "Introduction to threads",
+                "Thread communication"
+            ]
+        },
+        {
+            "title": "GUI Programming with Swing",
+            "content": [
+                "Creating graphical user interfaces",
+                "Event handling and listeners"
+            ]
+        },
+        {
+            "title": "Database Connectivity with JDBC",
+            "content": [
+                "Introduction to JDBC",
+                "Connecting to databases",
+                "Executing SQL queries"
+            ]
+        },
+        {
+            "title": "Modern Trends & Emerging Topics",
+            "content": [
+                "Java Stream API & functional programming features (lambdas, method references)",
+                "Microservices architecture basics using Java (Spring Boot / Micronaut)",
+                "Cloud deployment & containers (Docker)",
+                "JVM performance tuning & profiling tools",
+                "Security basics: secure coding practices, input validation, OWASP principles",
+                "Handling HTTP requests and responses",
+                "Basic web application development"
+            ]
+        }
+    ],
+    "6": [
+        {
+            "title": "Foundations",
+            "content": [
+                "Introduction to Machine Learning: definitions, types (supervised, unsupervised, reinforcement)",
+                "Programming with Python: basics, data structures, functions",
+                "Mathematics essentials: linear algebra, probability & statistics",
+                "Data preprocessing & exploratory data analysis (EDA)"
+            ]
+        },
+        {
+            "title": "ML with Python",
+            "content": [
+                "Applications of Machine Learning",
+                "Supervised vs Unsupervised Learning",
+                "Python libraries suitable for Machine Learning"
+            ]
+        },
+        {
+            "title": "Core Algorithms & Model Building",
+            "content": [
+                "Supervised learning: linear regression, logistic regression, decision trees",
+                "Unsupervised learning: clustering (K-Means, Hierarchical)",
+                "Model evaluation: train/test split, cross-validation, metrics (accuracy, precision, recall, F1, ROC-AUC)"
+            ]
+        },
+        {
+            "title": "Advanced ML Techniques",
+            "content": [
+                "Ensemble methods: random forests, boosting (e.g., XGBoost, LightGBM)",
+                "Hyperparameter tuning (grid / random search, Bayesian optimization)",
+                "Handling overfitting/underfitting; bias–variance tradeoff",
+                "Working with imbalanced datasets"
+            ]
+        },
+        {
+            "title": "Deep Learning & Specialized Models",
+            "content": [
+                "Neural networks fundamentals (MLP, activation functions)",
+                "CNNs for image tasks; RNNs / LSTM for sequence data",
+                "Transfer learning; pretrained models",
+                "Intro to transformers & attention mechanisms"
+            ]
+        },
+        {
+            "title": "Responsible ML & Emerging Trends",
+            "content": [
+                "Content-based recommender systems",
+                "Collaborative Filtering",
+                "Ethics, fairness, bias detection & mitigation",
+                "Explainable ML (XAI)",
+                "AutoML tools & frameworks",
+                "Edge ML & real-time inference",
+                "Graph-based ML, synthetic data, privacy preserving ML"
+            ]
+        }
+    ],
+    "7": [
+        {
+            "title": "Introduction to Databases and SQL",
+            "content": [
+                "What is a Database?",
+                "Introduction to SQL",
+                "Understanding Relational Databases"
+            ]
+        },
+        {
+            "title": "SQL Syntax and Data Types",
+            "content": [
+                "SQL Data Types",
+                "Basic SQL Syntax",
+                "Creating Databases and Tables"
+            ]
+        },
+        {
+            "title": "Retrieving Data with SELECT",
+            "content": [
+                "SELECT statement basics",
+                "Retrieving data from single and multiple tables",
+                "Filtering data using WHERE clause"
+            ]
+        },
+        {
+            "title": "Sorting and Filtering Data",
+            "content": [
+                "Sorting data using ORDER BY",
+                "Filtering data with WHERE clause (continued)",
+                "Using comparison operators and logical operators"
+            ]
+        },
+        {
+            "title": "Working with Functions and Aggregate Functions",
+            "content": [
+                "Introduction to SQL functions",
+                "Using aggregate functions (SUM, AVG, COUNT, MAX, MIN)"
+            ]
+        },
+        {
+            "title": "Joining Tables",
+            "content": [
+                "Understanding SQL Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN)",
+                "Joining multiple tables",
+                "Using aliases for table names"
+            ]
+        },
+        {
+            "title": "Subqueries and Nested Queries",
+            "content": [
+                "Understanding subqueries",
+                "Using subqueries in SELECT, WHERE, and FROM clauses"
+            ]
+        },
+        {
+            "title": "Modifying Data with INSERT, UPDATE, DELETE",
+            "content": [
+                "Inserting data into tables",
+                "Updating existing data",
+                "Deleting records from tables",
+                "Transaction management and COMMIT, ROLLBACK"
+            ]
+        }
+    ],
+    "8": [
+        {
+            "title": "Introduction to Stock Market",
+            "content": [
+                "Basics of stocks, exchanges, and trading.",
+                "Common stocks, preferred stocks, and their characteristics.",
+                "Understanding major indices like the S&P 500 and Dow Jones Industrial Average."
+            ]
+        },
+        {
+            "title": "Fundamental Analysis",
+            "content": [
+                "Introduction to analyzing stocks based on financial statements, earnings reports, and industry analysis.",
+                "Basic principles of chart reading, support and resistance levels, and basic indicators like moving averages.",
+                "Introduction to risk management strategies, diversification, and setting stop-loss orders."
+            ]
+        },
+        {
+            "title": "Market Order Types",
+            "content": [
+                "Understanding market orders, limit orders, stop orders, and their application.",
+                "Introduction to various resources for stock research, including financial news, analyst reports, and online platforms.",
+                "Familiarization with popular trading platforms and their features."
+            ]
+        },
+        {
+            "title": "Introduction to Options",
+            "content": [
+                "Basics of options contracts, calls, and puts.",
+                "Overview of basic options trading strategies, such as covered calls and protective puts.",
+                "Practice trading stocks and options using virtual portfolios on trading simulators."
+            ]
+        },
+        {
+            "title": "Advanced Technical Analysis",
+            "content": [
+                "Learning advanced chart patterns, oscillators, and candlestick patterns.",
+                "In-depth analysis of financial statements, ratios, and valuation methods.",
+                "Introduction to Derivatives: Exploring futures and other derivative instruments."
+            ]
+        },
+        {
+            "title": "Advanced Trading Strategies",
+            "content": [
+                "Learning about swing trading, momentum trading, and contrarian strategies.",
+                "Advanced techniques for managing risk, including position sizing and advanced order types.",
+                "Understanding the psychological factors that influence market behavior and decision making."
+            ]
+        },
+        {
+            "title": "Trading Psychology",
+            "content": [
+                "Developing discipline, emotional control, and maintaining a trading journal.",
+                "Strategies like straddles, strangles, and iron condors.",
+                "Introduction to automated trading systems and their development."
+            ]
+        },
+        {
+            "title": "Portfolio Management",
+            "content": [
+                "Diversification, asset allocation, and portfolio rebalancing techniques.",
+                "Macro-economic analysis, sector analysis, and top-down investing approach.",
+                "Creating a personalized trading plan with specific goals and strategies."
+            ]
+        }
+    ],
+    "9": [
+        {
+            "title": "Introduction to Finance",
+            "content": [
+                "Introduction to Finance, finance tools",
+                "Understanding the role of finance in an organization, basic financial terminology, and the financial statement analysis."
+            ]
+        },
+        {
+            "title": "Financial Statements and Analysis",
+            "content": [
+                "Balance sheet analysis",
+                "Income statement analysis",
+                "Cash flow statement analysis"
+            ]
+        },
+        {
+            "title": "Time Value of Money",
+            "content": [
+                "Future value, present value, and interest rate calculations",
+                "Time Value of Money Applications of time value of money in decision making"
+            ]
+        },
+        {
+            "title": "Investment Valuation",
+            "content": [
+                "Introduction to investment valuation methods",
+                "Discounted cash flow (DCF) analysis"
+            ]
+        },
+        {
+            "title": "Risk and Return",
+            "content": [
+                "Introduction to risk and return",
+                "Portfolio theory and diversification"
+            ]
+        },
+        {
+            "title": "Financial Markets and Instruments",
+            "content": [
+                "Overview of financial markets (equity, debt, derivatives, etc.)",
+                "Introduction to stocks and bonds",
+                "SEBI regulations and depository system"
+            ]
+        },
+        {
+            "title": "Corporate Finance",
+            "content": [
+                "Capital budgeting and project evaluation",
+                "Cost of capital and capital structure",
+                "Dividend policy and financial strategy"
+            ]
+        },
+        {
+            "title": "Specialized Topics and Applications",
+            "content": [
+                "Mergers and acquisitions",
+                "Risk management and hedging strategies"
+            ]
+        }
+    ],
+    "10": [
+        {
+            "title": "Introduction to HR Trends",
+            "content": [
+                "Overview of the HR function and its evolving role in organizations",
+                "Current HR trends and their impact on the workplace"
+            ]
+        },
+        {
+            "title": "HR Technology and Automation",
+            "content": [
+                "Understanding HR technology and software (e.g., HRIS, ATS)",
+                "Implementing automation in HR processes",
+                "The role of artificial intelligence and machine learning in HR"
+            ]
+        },
+        {
+            "title": "Remote Work and Hybrid Workforce",
+            "content": [
+                "Managing remote teams and the challenges of remote work",
+                "Strategies for creating a productive and engaged remote workforce",
+                "Transitioning to a hybrid workforce model"
+            ]
+        },
+        {
+            "title": "Diversity, Equity, and Inclusion (DEI)",
+            "content": [
+                "The importance of DEI in the workplace",
+                "DEI initiatives and best practices",
+                "Measuring and tracking DEI progress"
+            ]
+        },
+        {
+            "title": "Talent Acquisition and Retention",
+            "content": [
+                "Innovative sourcing and recruitment strategies",
+                "Onboarding and employee retention in a competitive job market"
+            ]
+        },
+        {
+            "title": "Performance Management and Learning & Development",
+            "content": [
+                "Modern approaches to performance appraisals",
+                "Continuous feedback and coaching",
+                "Measuring and tracking DEI progress"
+            ]
+        },
+        {
+            "title": "Employee Well-being and Mental Health",
+            "content": [
+                "Promoting employee well-being and work-life balance",
+                "Addressing mental health in the workplace",
+                "Creating a supportive and healthy work environment"
+            ]
+        },
+        {
+            "title": "Future HR Trends and Predictions",
+            "content": [
+                "Emerging trends in HR for the future",
+                "The impact of AI, automation, and analytics on HR",
+                "Preparing for the HR challenges of the coming years"
+            ]
+        }
+    ],
+    "11": [
+        {
+            "title": "Introduction to Marketing",
+            "content": [
+                "Definition of marketing",
+                "Importance of marketing in business",
+                "Evolution of marketing concepts"
+            ]
+        },
+        {
+            "title": "Market Research",
+            "content": [
+                "Understanding target audience",
+                "Conducting market research",
+                "Analyzing competitors"
+            ]
+        },
+        {
+            "title": "Consumer Behavior",
+            "content": [
+                "Factors influencing consumer behavior",
+                "Consumer decision-making process",
+                "Segmentation, targeting, and positioning"
+            ]
+        },
+        {
+            "title": "Branding and Positioning",
+            "content": [
+                "Importance of branding",
+                "Brand identity and brand image"
+            ]
+        },
+        {
+            "title": "Digital Marketing",
+            "content": [
+                "Overview of digital marketing channels",
+                "SEO (Search Engine Optimization)",
+                "SEM (Search Engine Marketing) and PPC (Pay Per Click)",
+                "Social media marketing"
+            ]
+        },
+        {
+            "title": "Content Marketing",
+            "content": [
+                "Creating engaging content",
+                "Content distribution strategies",
+                "Content marketing metrics and analytics"
+            ]
+        },
+        {
+            "title": "Email Marketing and Automation",
+            "content": [
+                "Building email lists",
+                "Creating effective email campaigns",
+                "Introduction to marketing automation tools"
+            ]
+        },
+        {
+            "title": "Marketing Analytics and Measurement",
+            "content": [
+                "Key marketing metrics",
+                "Tools for marketing analytics",
+                "Interpreting data and making informed decisions"
+            ]
+        }
+    ],
+    "12": [
+        {
+            "title": "Introduction to Digital Marketing",
+            "content": [
+                "Understanding the digital marketing landscape",
+                "Differentiating between traditional and digital marketing",
+                "Exploring digital marketing channels"
+            ]
+        },
+        {
+            "title": "Website Essentials",
+            "content": [
+                "Basics of website structure and design",
+                "Mobile responsiveness and optimization"
+            ]
+        },
+        {
+            "title": "Search Engine Optimization (SEO)",
+            "content": [
+                "Fundamentals of SEO",
+                "Keyword research and analysis",
+                "On-page optimization techniques",
+                "Off-page optimization and link building",
+                "Technical SEO considerations"
+            ]
+        },
+        {
+            "title": "Content Marketing",
+            "content": [
+                "Crafting compelling content for digital platforms",
+                "Developing a content strategy",
+                "Content distribution and promotion"
+            ]
+        },
+        {
+            "title": "Social Media Marketing",
+            "content": [
+                "Creating effective social media profiles/pages",
+                "Developing a social media content strategy",
+                "Social media advertising and targeting"
+            ]
+        },
+        {
+            "title": "Pay-Per-Click Advertising (PPC)",
+            "content": [
+                "Introduction to PPC advertising (Google Ads, Bing Ads)",
+                "Creating effective ad campaigns",
+                "Keyword research for PPC",
+                "Ad copywriting and A/B testing",
+                "Ad performance monitoring and optimization"
+            ]
+        },
+        {
+            "title": "Email Marketing and Automation",
+            "content": [
+                "Building an email subscriber list",
+                "Creating impactful email campaigns",
+                "Designing responsive email templates",
+                "Introduction to marketing automation",
+                "A/B testing for email campaigns"
+            ]
+        },
+        {
+            "title": "Analytics and Data Interpretation",
+            "content": [
+                "Introduction to digital marketing analytics tools (Google Analytics, etc.)",
+                "Setting up analytics tracking",
+                "Interpreting key performance indicators (KPIs)",
+                "Conversion tracking and funnel analysis"
+            ]
+        },
+        {
+            "title": "Influencer Marketing and Affiliate Marketing",
+            "content": [
+                "Understanding influencer marketing and identifying influencers",
+                "Developing influencer partnerships",
+                "Introduction to affiliate marketing",
+                "Creating affiliate marketing strategies"
+            ]
+        }
+    ],
+    "13": [
+        {
+            "title": "Introduction to Electromagnetism",
+            "content": [
+                "Overview of electromagnetism principles",
+                "Magnetic fields and their properties",
+                "Introduction to electromagnetic induction"
+            ]
+        },
+        {
+            "title": "Magnetic Forces and Fields",
+            "content": [
+                "Magnetic force on moving charges",
+                "Magnetic force on current-carrying wires",
+                "Calculation of magnetic fields using Ampere's law and Biot-Savart law"
+            ]
+        },
+        {
+            "title": "Electromagnetic Induction",
+            "content": [
+                "Faraday's law of electromagnetic induction",
+                "Lenz's law",
+                "Applications of electromagnetic induction"
+            ]
+        },
+        {
+            "title": "Introduction to Electromagnetic Suspension",
+            "content": [
+                "Basic principles of electromagnetic suspension",
+                "Applications and examples of electromagnetic suspension systems",
+                "Design considerations and challenges in electromagnetic suspension"
+            ]
+        },
+        {
+            "title": "Design and Simulation",
+            "content": [
+                "Principles of electromagnetic suspension system design",
+                "Simulation tools for electromagnetic systems",
+                "Hands-on simulation exercises and projects"
+            ]
+        },
+        {
+            "title": "Construction and Prototyping",
+            "content": [
+                "Selection of materials and components for electromagnetic suspension systems",
+                "Hands-on construction of electromagnets and suspension systems",
+                "Prototyping and testing of simple electromagnetic suspension setups"
+            ]
+        },
+        {
+            "title": "Control Systems and Stability",
+            "content": [
+                "Introduction to control systems for electromagnetic suspension",
+                "Stability analysis and control algorithms",
+                "Implementation and testing of control systems for stability in suspension setups"
+            ]
+        }
+    ],
+    "14": [
+        {
+            "title": "Introduction to Robotics and Basic Electronics",
+            "content": [
+                "Overview of Robotics, History, and Applications",
+                "Introduction to Basic Electronics",
+                "Components of a Robot, Sensors, and Actuators"
+            ]
+        },
+        {
+            "title": "Microcontrollers and Microprocessor Basics",
+            "content": [
+                "Programming Basics for Robotics (using a language like Python or Arduino)",
+                "Basic Electronics Lab (hands-on activities with sensors and actuators)"
+            ]
+        },
+        {
+            "title": "Robot Kinematics",
+            "content": [
+                "Robot Kinematics - Position and Orientation",
+                "Types of Robotic Joints and Mechanisms",
+                "Inverse Kinematics"
+            ]
+        },
+        {
+            "title": "Introduction to Control Systems",
+            "content": [
+                "PID Controllers and their Applications",
+                "Control Systems Lab",
+                "Computer Vision and Image Processing"
+            ]
+        },
+        {
+            "title": "Introduction to Computer Vision",
+            "content": [
+                "Image Processing Basics",
+                "Object Detection and Recognition",
+                "Inverse Kinematics",
+                "Camera Calibration and 3D Reconstruction",
+                "Computer Vision Lab",
+                "Project on Computer Vision",
+                "Robot Programming and Simulation"
+            ]
+        },
+        {
+            "title": "Introduction to Robot Operating System (ROS)",
+            "content": [
+                "ROS Packages and Nodes",
+                "ROS Simulation",
+                "Gazebo Simulation",
+                "Advanced ROS Concepts"
+            ]
+        }
+    ],
+    "15": [
+        {
+            "title": "Introduction to Embedded Systems",
+            "content": [
+                "Definition and characteristics of embedded systems",
+                "Embedded systems vs. general-purpose computers",
+                "Common applications of embedded systems",
+                "Historical development of embedded systems"
+            ]
+        },
+        {
+            "title": "Microcontrollers and Microprocessors",
+            "content": [
+                "Basics of microcontrollers and microprocessors",
+                "Architectures (e.g., ARM, AVR, PIC)",
+                "Memory hierarchy (RAM, ROM, Flash)",
+                "Input and output (GPIO, UART, SPI, I2C)"
+            ]
+        },
+        {
+            "title": "Programming Embedded Systems",
+            "content": [
+                "Embedded C programming",
+                "Development tools (IDEs, compilers)",
+                "Writing and debugging code",
+                "Interrupts and timers"
+            ]
+        },
+        {
+            "title": "Peripherals and Interfacing",
+            "content": [
+                "Digital and analog I/O",
+                "Communication interfaces (UART, SPI, I2C)",
+                "Sensors and actuators",
+                "Real-time control and PWM"
+            ]
+        },
+        {
+            "title": "Embedded System Design",
+            "content": [
+                "Design methodologies",
+                "Data flow analysis",
+                "UML and flowcharts",
+                "Case study: Embedded system design project"
+            ]
+        },
+        {
+            "title": "Operating Systems for Embedded Systems",
+            "content": [
+                "Real-time operating systems (RTOS)",
+                "Task scheduling and synchronization",
+                "Memory management"
+            ]
+        },
+        {
+            "title": "Embedded System Communication",
+            "content": [
+                "Wireless communication (Bluetooth, Wi-Fi)",
+                "Networking (Ethernet)",
+                "IoT protocols (MQTT, CoAP)"
+            ]
+        },
+        {
+            "title": "Embedded System Testing and Debugging",
+            "content": [
+                "Debugging techniques",
+                "Testing strategies",
+                "Emulation and simulation",
+                "Testing tools and practices"
+            ]
+        },
+        {
+            "title": "Embedded System Project",
+            "content": [
+                "Final project development",
+                "Presentation and demonstration",
+                "Documentation and report"
+            ]
+        }
+    ],
+    "16": [
+        {
+            "title": "Introduction to IoT Fundamentals",
+            "content": [
+                "Understanding IoT: Definition, history, and evolution",
+                "IoT ecosystem: Components, sensors, actuators, communication protocols",
+                "Use cases and applications of IoT in various industries"
+            ]
+        },
+        {
+            "title": "IoT Architecture",
+            "content": [
+                "Edge computing, cloud computing, and fog computing",
+                "Data acquisition and sensing: Types of sensors, data collection methods",
+                "Communication protocols: MQTT, CoAP, HTTP, WebSocket",
+                "Lab: Setting up a basic IoT sensor network"
+            ]
+        },
+        {
+            "title": "Introduction to Microcontrollers",
+            "content": [
+                "Arduino, Raspberry Pi, ESP8266/ESP32",
+                "IoT hardware platforms: Choosing the right hardware for specific applications",
+                "Interfacing sensors and actuators with microcontrollers"
+            ]
+        },
+        {
+            "title": "Wireless Communication Technologies",
+            "content": [
+                "Wi-Fi, Bluetooth, Zigbee, LoRaWAN, NB-IoT",
+                "Hands-on workshop with selected hardware and connectivity options",
+                "Building a simple IoT device with sensors and wireless connectivity"
+            ]
+        },
+        {
+            "title": "Data Management and Analytics in IoT",
+            "content": [
+                "Data management in IoT: Data storage, databases, data preprocessing",
+                "Introduction to data analytics and visualization for IoT",
+                "Security and privacy considerations in IoT",
+                "Introduction to edge computing and its importance in IoT",
+                "Real-time data processing and analysis at the edge",
+                "Setting up a basic edge analytics system"
+            ]
+        },
+        {
+            "title": "IoT Applications and Future Trends",
+            "content": [
+                "Smart cities and urban IoT applications",
+                "Industrial IoT (IIoT) and its impact on manufacturing and supply chain",
+                "Remote patient monitoring, wearable devices",
+                "Environmental monitoring using IoT",
+                "Agriculture and precision farming applications",
+                "Ethical and social considerations of IoT"
+            ]
+        },
+        {
+            "title": "Final Project",
+            "content": [
+                "Students work on a group or individual IoT project",
+                "Project proposal, development, testing, and documentation"
+            ]
+        }
+    ],
+    "17": [
+        {
+            "title": "Introduction to AutoCAD",
+            "content": [
+                "Overview of CAD and AutoCAD",
+                "User interface and basic commands",
+                "Drawing and editing tools"
+            ]
+        },
+        {
+            "title": "2D Drawing in AutoCAD",
+            "content": [
+                "Creating basic 2D shapes and objects",
+                "Precision drawing techniques",
+                "Layers and object properties"
+            ]
+        },
+        {
+            "title": "Dimensioning and Annotation",
+            "content": [
+                "Adding dimensions to drawings",
+                "Text and annotations",
+                "Dimension styles and standards"
+            ]
+        },
+        {
+            "title": "Advanced 2D Drawing",
+            "content": [
+                "Advanced editing tools",
+                "Blocks and attributes",
+                "External references (Xrefs)"
+            ]
+        },
+        {
+            "title": "Introduction to 3D Modeling",
+            "content": [
+                "Basics of 3D workspace",
+                "Creating 3D objects",
+                "Viewing and navigating in 3D space"
+            ]
+        },
+        {
+            "title": "Advanced 3D Modeling",
+            "content": [
+                "Solid modeling techniques",
+                "Boolean operations",
+                "3D editing and modification tools"
+            ]
+        },
+        {
+            "title": "AutoCAD Customization",
+            "content": [
+                "Introduction to AutoLISP programming",
+                "Customizing the user interface",
+                "Creating custom commands and scripts"
+            ]
+        },
+        {
+            "title": "Sheet Sets and Layouts",
+            "content": [
+                "Managing sheets in a project",
+                "Creating layouts and viewports",
+                "Printing and plotting"
+            ]
+        },
+        {
+            "title": "Project Work",
+            "content": [
+                "Collaborative workflows",
+                "Data exchange with other CAD software",
+                "Handling external references and attachments"
+            ]
+        }
+    ],
+    "18": [
+        {
+            "title": "Introduction to Construction Planning & Management",
+            "content": [
+                "Introduction To engineering drawing",
+                "Various types of drawings",
+                "Architectural, engineering",
+                "Construction drawing merits"
+            ]
+        },
+        {
+            "title": "AutoCAD",
+            "content": [
+                "Introduction to auto cad graphical user interface",
+                "Introduction to tools Preparation of Architectural plan",
+                "Preparation of Structural drawings"
+            ]
+        },
+        {
+            "title": "Workspace",
+            "content": [
+                "Workspace getting started with tools introduction to",
+                "floor plan basic concepts to be followed while designing",
+                "floor plan using tools used for sketching floor, modify",
+                "tools, layers."
+            ]
+        },
+        {
+            "title": "Revit",
+            "content": [
+                "Revit basics in Revit Architecture introduction to GUI workspace",
+                "project browser property browser, status bar, Adding level, Grid."
+            ]
+        },
+        {
+            "title": "STAAD.Pro",
+            "content": [
+                "GUI Basic concepts calculating wing load creating beam, column,",
+                "slab different types of support conditions creating skeleton",
+                "Defining and assigning",
+                "Property to beam, column, slab analyze the project",
+                "finding of asr",
+                "Dia of bars, No pf bars, required"
+            ]
+        }
+    ],
+    "19": [
+        {
+            "title": "Introduction to Structural Analysis",
+            "content": [
+                "Overview of structural analysis principles",
+                "Importance of structural analysis in engineering design"
+            ]
+        },
+        {
+            "title": "Structural Loads and Supports",
+            "content": [
+                "Types of loads: dead loads, live loads, environmental loads",
+                "Load combinations and load path determination",
+                "Different types of supports and their behavior"
+            ]
+        },
+        {
+            "title": "Analysis of Determinate Structures",
+            "content": [
+                "Static equilibrium and its application to determinate structures",
+                "Analysis of trusses using the method of joints and method of sections",
+                "Analysis of beams using methods like the moment area method and conjugate beam method"
+            ]
+        },
+        {
+            "title": "Analysis of Determinate Structures (Continued)",
+            "content": [
+                "Analysis of frames using the method of consistent deformations",
+                "Analysis of arches and cables"
+            ]
+        },
+        {
+            "title": "Influence Lines and Moving Loads",
+            "content": [
+                "Concept of influence lines and their importance",
+                "Calculation of influence lines for determinate structures",
+                "Application of influence lines for moving loads"
+            ]
+        },
+        {
+            "title": "Introduction to Indeterminate Structures",
+            "content": [
+                "Basic concepts of indeterminacy and redundancy",
+                "Analysis of indeterminate structures using the force method (Flexibility method)",
+                "Analysis of indeterminate structures using the displacement method (Stiffness method)"
+            ]
+        },
+        {
+            "title": "Structural Stability and Design Considerations",
+            "content": [
+                "Buckling and stability of structures",
+                "Introduction to structural dynamics and vibrations",
+                "Basic principles of structural design and safety factors"
+            ]
+        }
+    ],
+    "20": [
+        {
+            "title": "Introduction to Bioinformatics",
+            "content": [
+                "Overview of bioinformatics: Definition, scope, and applications",
+                "Introduction to biological databases: GenBank, UniProt, etc.",
+                "Basic Linux commands and file manipulation",
+                "Introduction to programming in Python: Data types, variables, operators, and basic input/output"
+            ]
+        },
+        {
+            "title": "Sequence Analysis",
+            "content": [
+                "Introduction to biological sequences: DNA, RNA, and proteins",
+                "Sequence alignment algorithms: Pairwise alignment, global alignment, and local alignment",
+                "Practical session on sequence alignment using tools like BLAST and Clustal Omega",
+                "Introduction to sequence databases and tools for sequence analysis"
+            ]
+        },
+        {
+            "title": "Genome Analysis",
+            "content": [
+                "Genome structure and organization",
+                "Genome assembly: Introduction to genome assembly algorithms and tools",
+                "Annotation of genomic sequences: Gene prediction and functional annotation",
+                "Practical session on genome analysis using tools like Bowtie, BWA, and HISAT2"
+            ]
+        },
+        {
+            "title": "Structural Bioinformatics",
+            "content": [
+                "Introduction to protein structure: Primary, secondary, tertiary, and quaternary structures",
+                "Protein structure prediction: Homology modeling, ab initio modeling, and structure refinement",
+                "Protein structure visualization using tools like PyMOL and Chimera"
+            ]
+        },
+        {
+            "title": "Transcriptomics",
+            "content": [
+                "Introduction to transcriptomics and gene expression analysis",
+                "RNA-Seq data analysis workflow: Alignment, quantification, and differential expression analysis",
+                "Practical session on RNA-Seq data analysis using tools like HISAT2, StringTie, and DESeq2"
+            ]
+        },
+        {
+            "title": "Proteomics and Metabolomics",
+            "content": [
+                "Introduction to proteomics and metabolomics",
+                "Mass spectrometry-based proteomics: Data acquisition and analysis",
+                "Metabolomics data analysis: Metabolite identification and pathway analysis",
+                "Practical session on proteomics and metabolomics data analysis using tools like Proteome Discoverer and MetaboAnalyst"
+            ]
+        },
+        {
+            "title": "Phylogenetics and Evolutionary Analysis",
+            "content": [
+                "Introduction to phylogenetics: Tree building methods, distance-based methods, and maximum likelihood methods",
+                "Molecular evolution: Rates of evolution, positive and negative selection",
+                "Practical session on phylogenetic analysis using tools like MEGA and PHYLIP"
+            ]
+        },
+        {
+            "title": "Systems Biology and Network Analysis",
+            "content": [
+                "Introduction to systems biology: Understanding biological systems as networks",
+                "Network analysis methods: Node and edge centrality, network motifs, and pathway analysis"
+            ]
+        }
+    ],
+    "21": [
+        {
+            "title": "Introduction to Genetic Engineering",
+            "content": [
+                "Overview of Genetic Engineering: Understanding the principles and applications of genetic manipulation in engineering.",
+                "Genetic Engineering Tools and Techniques: Exploring the fundamental tools and methods used in genetic engineering.",
+                "Ethical and Regulatory Aspects: Discussing ethical considerations and regulatory frameworks in genetic engineering.",
+                "Introduction to Online Resources and Learning Materials: Familiarizing students with valuable online resources for genetic engineering."
+            ]
+        },
+        {
+            "title": "Molecular Biology Basics",
+            "content": [
+                "DNA Structure and Function: Understanding the molecular structure and functions of DNA.",
+                "Central Dogma of Molecular Biology: Exploring DNA replication, transcription, and translation processes.",
+                "Genetic Inheritance Patterns: Studying Mendelian and non-Mendelian inheritance patterns.",
+                "Genomic Variation and Diversity: Analyzing genetic variations and their significance in engineering applications."
+            ]
+        },
+        {
+            "title": "Recombinant DNA Technology",
+            "content": [
+                "Principles of Recombinant DNA: Techniques for manipulating and recombining DNA.",
+                "Cloning Vectors and Plasmid Design: Designing vectors for gene cloning and expression.",
+                "Gene Insertion and Transformation: Strategies for inserting genes into host organisms.",
+                "Online Collaborative Discussions on Genetic Engineering Applications: Engaging in group discussions about real-world applications."
+            ]
+        },
+        {
+            "title": "Gene Expression and Regulation",
+            "content": [
+                "Transcriptional Regulation: Mechanisms controlling gene expression.",
+                "Protein Synthesis and Translation Regulation: Understanding protein synthesis and its regulation.",
+                "CRISPR-Cas9 Technology: Exploring the principles and applications of CRISPR-based genome editing.",
+                "Other Genome Editing Tools: Overview of additional genome editing techniques."
+            ]
+        },
+        {
+            "title": "Synthetic Biology",
+            "content": [
+                "Introduction to Synthetic Biology: Designing and engineering biological systems.",
+                "Metabolic Engineering: Engineering metabolic pathways for desired outcomes.",
+                "Biomedical Engineering Applications: Gene therapy, regenerative medicine, and tissue engineering.",
+                "Bioinformatics and Computational Biology: Leveraging computational tools in genetic engineering."
+            ]
+        },
+        {
+            "title": "Agricultural and Environmental Engineering",
+            "content": [
+                "Genetic Engineering in Agriculture: GMOs, crop improvement, and sustainable agriculture.",
+                "Bioremediation and Environmental Biotechnology: Engineering solutions for environmental challenges.",
+                "Advanced Genetic Engineering Techniques: Exploring cutting-edge techniques like gene synthesis and genome editing.",
+                "Nanobiotechnology and Genetic Engineering: Integration of nanotechnology with genetic engineering"
+            ]
+        },
+        {
+            "title": "Ethics, Safety, and Societal Impact",
+            "content": [
+                "Ethical Considerations in Genetic Engineering: Discussing ethical dilemmas and social implications.",
+                "Biosafety and Biosecurity Measures: Ensuring safe practices in genetic engineering.",
+                "Debates and Discussions on Ethical Topics: Engaging in online debates on controversial genetic engineering issues."
+            ]
+        },
+        {
+            "title": "Challenges and Future Directions",
+            "content": [
+                "Global Challenges in Genetic Engineering: Addressing ethical, social, and environmental challenges.",
+                "Integration of Genetic Engineering with Engineering Disciplines: Collaborations between genetics and other engineering fields.",
+                "Role of Artificial Intelligence in Genetic Engineering: Exploring AI's role in data analysis, modelling, and optimization in genetic engineering."
+            ]
+        }
+    ],
+    "22": [
+        {
+            "title": "Introduction to Nanotechnology",
+            "content": [
+                "Overview of nanotechnology: definition, history, and significance.",
+                "Scale in nanotechnology: nanostructures, nanomaterials, and nanodevices."
+            ]
+        },
+        {
+            "title": "Nanomaterials",
+            "content": [
+                "Properties of nanomaterials: size-dependent properties, quantum effects.",
+                "Types of nanomaterials: nanoparticles, nanotubes, nanowires, and quantum dots."
+            ]
+        },
+        {
+            "title": "Fabrication Techniques",
+            "content": [
+                "Top-down vs. bottom-up fabrication methods.",
+                "Lithography, chemical vapor deposition, molecular self-assembly, and other techniques."
+            ]
+        },
+        {
+            "title": "Characterization Techniques",
+            "content": [
+                "Scanning electron microscopy (SEM), transmission electron microscopy (TEM), atomic force microscopy (AFM), X-ray diffraction (XRD), and spectroscopic techniques."
+            ]
+        },
+        {
+            "title": "Nanoelectronics",
+            "content": [
+                "Introduction to nanoelectronic devices: transistors, sensors, and quantum dots.",
+                "Challenges and opportunities in nanoelectronics."
+            ]
+        },
+        {
+            "title": "Nanomedicine",
+            "content": [
+                "Nanoparticles in drug delivery, imaging, and therapy.",
+                "Targeted drug delivery systems and diagnostic techniques."
+            ]
+        },
+        {
+            "title": "Nanotechnology in Energy",
+            "content": [
+                "Nanomaterials for energy conversion and storage.",
+                "Solar cells, batteries, and fuel cells."
+            ]
+        },
+        {
+            "title": "Emerging Trends and Future Directions",
+            "content": [
+                "Nanotechnology in environmental applications.",
+                "Nanorobotics, nanoscale manufacturing, and societal implications."
+            ]
+        }
+    ],
+    "23": [
+        {
+            "title": "Introduction to Aircraft Design",
+            "content": [
+                "Overview of the design process",
+                "Historical context, and key concepts",
+                "Basics of Aerodynamics: Understanding lift, drag, thrust, and weight"
+            ]
+        },
+        {
+            "title": "Aircraft Performance Parameters",
+            "content": [
+                "Exploring range, endurance, speed, and payload.",
+                "Study of materials used in aircraft construction and their properties"
+            ]
+        },
+        {
+            "title": "Wing Design",
+            "content": [
+                "Principles of wing geometry, airfoil selection, and wing loading",
+                "Introduction to different types of propulsion systems and their efficiency"
+            ]
+        },
+        {
+            "title": "Fuselage and Empennage Design",
+            "content": [
+                "Design considerations for the main body and tail of the aircraft",
+                "Understanding aircraft stability, control surfaces, and flight dynamics"
+            ]
+        },
+        {
+            "title": "Landing Gear Design",
+            "content": [
+                "Types of landing gear, shock absorption, and structural considerations",
+                "Introduction to onboard systems, navigation, and communication"
+            ]
+        },
+        {
+            "title": "Structural Analysis",
+            "content": [
+                "Basics of stress, strain, and structural integrity in aircraft design",
+                "Importance of proper weight distribution and balance for safe flight"
+            ]
+        },
+        {
+            "title": "Environmental Factors",
+            "content": [
+                "Designing for noise reduction, fuel efficiency, and environmental sustainability",
+                "Overview of aircraft manufacturing processes and quality control."
+            ]
+        },
+        {
+            "title": "Case Studies",
+            "content": [
+                "Analyzing successful aircraft designs and their impact on aviation",
+                "Students work in teams to conceptualize and present their own aircraft designs"
+            ]
+        }
+    ],
+    "24": [
+        {
+            "title": "Introduction to Anatomy",
+            "content": [
+                "Introduction to anatomical terminology",
+                "Overview of body planes, cavities, and regions",
+                "Basic understanding of anatomical position and directional terms"
+            ]
+        },
+        {
+            "title": "Musculoskeletal System",
+            "content": [
+                "Study of bones, joints, and skeletal muscles",
+                "Classification of bones and bone markings",
+                "Understanding the structure and function of different types of joints"
+            ]
+        },
+        {
+            "title": "Cardiovascular and Respiratory Systems",
+            "content": [
+                "Anatomy of the heart, blood vessels, and lungs",
+                "Understanding the structure and function of the heart chambers and valves",
+                "Overview of blood circulation and gas exchange in the respiratory system"
+            ]
+        },
+        {
+            "title": "Digestive and Urinary Systems",
+            "content": [
+                "Anatomy of the digestive tract, liver, gallbladder, and pancreas",
+                "Understanding the process of digestion and absorption",
+                "Structure and function of the kidneys, ureters, bladder, and urethra",
+                "Overview of urine formation and excretion"
+            ]
+        },
+        {
+            "title": "Neurophysiology and Endocrine System",
+            "content": [
+                "Basic structure and function of neurons",
+                "Understanding of action potentials and neurotransmission",
+                "Overview of the central and peripheral nervous systems",
+                "Introduction to the endocrine glands and their hormones"
+            ]
+        },
+        {
+            "title": "Homeostasis and Regulation",
+            "content": [
+                "Concept of homeostasis and feedback mechanisms",
+                "Role of hormones, neurotransmitters, and other regulatory molecules",
+                "Regulation of body temperature, blood pressure, and blood glucose levels"
+            ]
+        },
+        {
+            "title": "Muscle Physiology and Movement",
+            "content": [
+                "Muscle contraction and relaxation",
+                "Understanding of muscle types and fiber types",
+                "Neuromuscular junction and motor unit",
+                "Types of muscle contractions and their significance"
+            ]
+        },
+        {
+            "title": "Integration and Review",
+            "content": [
+                "Integration of anatomical and physiological concepts",
+                "Review of major systems and their interconnections",
+                "Application of knowledge through case studies and practical scenarios"
+            ]
+        }
+    ],
+    "25": [
+        {
+            "title": "Digital Transformation of Healthcare Through AI",
+            "content": [
+                "AI-driven healthcare ecosystem",
+                "Clinical, operational, and research applications",
+                "AI adoption in hospitals and healthcare systems"
+            ]
+        },
+        {
+            "title": "Machine Learning for Clinical Data Analysis",
+            "content": [
+                "Predictive modeling in healthcare",
+                "Risk stratification",
+                "Disease progression modeling",
+                "Clinical pattern recognition"
+            ]
+        },
+        {
+            "title": "Deep Learning in Healthcare",
+            "content": [
+                "CNN, RNN, transformers in medicine",
+                "Why deep learning is powerful in clinical tasks",
+                "Use cases in diagnosis and monitoring"
+            ]
+        },
+        {
+            "title": "Healthcare Data Engineering and Interoperability",
+            "content": [
+                "EHR, EMR, FHIR basics",
+                "Structured vs unstructured healthcare data",
+                "Multimodal healthcare data integration"
+            ]
+        },
+        {
+            "title": "Medical Data Preprocessing, Bias, and Quality Challenges",
+            "content": [
+                "Missing clinical data",
+                "Class imbalance",
+                "Bias in healthcare AI",
+                "Reliable dataset preparation"
+            ]
+        },
+        {
+            "title": "AI Workflow for Real-World Clinical Applications",
+            "content": [
+                "Data to deployment pipeline",
+                "Model building, validation, testing",
+                "AI lifecycle in healthcare environments"
+            ]
+        },
+        {
+            "title": "AI in Disease Prediction and Prognostic Modeling",
+            "content": [
+                "Predicting diabetes, sepsis, cardiovascular disease",
+                "Survival prediction",
+                "Clinical deterioration models"
+            ]
+        },
+        {
+            "title": "AI in Medical Imaging and Radiology",
+            "content": [
+                "Image classification",
+                "Lesion detection",
+                "Segmentation in CT, MRI, X-ray, ultrasound",
+                "Radiology workflow automation"
+            ]
+        },
+        {
+            "title": "AI in Pathology and Histopathology",
+            "content": [
+                "Whole slide image analysis",
+                "Tumor grading",
+                "Biomarker detection",
+                "Digital pathology trends"
+            ]
+        },
+        {
+            "title": "AI in Clinical Decision Support Systems",
+            "content": [
+                "AI-assisted triage",
+                "Differential diagnosis support",
+                "Treatment recommendation systems",
+                "Workflow support in hospitals"
+            ]
+        },
+        {
+            "title": "AI in ICU, Emergency Medicine, and Real-Time Monitoring",
+            "content": [
+                "Early warning systems",
+                "AI for critical care prediction",
+                "Continuous patient monitoring",
+                "Alert fatigue and intelligent monitoring"
+            ]
+        },
+        {
+            "title": "Natural Language Processing for Clinical Text",
+            "content": [
+                "Clinical note analysis",
+                "Discharge summary understanding",
+                "Medical coding and summarization",
+                "NLP for hospital documentation"
+            ]
+        },
+        {
+            "title": "Generative AI in Healthcare",
+            "content": [
+                "AI for clinical documentation",
+                "Medical content generation",
+                "Synthetic medical data",
+                "Use of LLMs in healthcare workflows"
+            ]
+        },
+        {
+            "title": "Explainable AI in Medicine",
+            "content": [
+                "Model interpretability",
+                "Trust and transparency",
+                "SHAP, LIME concepts",
+                "Why explainability matters in healthcare decisions"
+            ]
+        },
+        {
+            "title": "AI in Precision Medicine and Personalized Care",
+            "content": [
+                "Patient-specific treatment planning",
+                "Biomarker-guided care",
+                "Personalized therapy optimization",
+                "AI in individualized risk prediction"
+            ]
+        },
+        {
+            "title": "AI in Genomics, Multi-Omics, and Molecular Medicine",
+            "content": [
+                "Variant interpretation",
+                "AI in gene expression analysis",
+                "Multi-omics integration",
+                "AI for molecular diagnostics"
+            ]
+        },
+        {
+            "title": "AI in Drug Discovery and Drug Repurposing",
+            "content": [
+                "Target identification",
+                "Molecule screening",
+                "Predictive pharmacology",
+                "AI in faster therapeutic discovery"
+            ]
+        },
+        {
+            "title": "Federated Learning and Privacy-Preserving AI in Healthcare",
+            "content": [
+                "Distributed healthcare AI",
+                "Data privacy challenges",
+                "Secure model training",
+                "AI without sharing raw patient data"
+            ]
+        },
+        {
+            "title": "AI in Robotic Surgery and Smart Operating Rooms",
+            "content": [
+                "AI-assisted surgical navigation",
+                "Surgical robotics",
+                "Computer vision in surgery",
+                "Smart OT systems"
+            ]
+        },
+        {
+            "title": "AI in Wearables, Remote Monitoring, and Digital Therapeutics",
+            "content": [
+                "Continuous patient monitoring",
+                "Smart wearable health systems",
+                "AI-guided chronic disease care",
+                "Home-based intelligent healthcare"
+            ]
+        },
+        {
+            "title": "AI in Public Health, Epidemiology, and Population Intelligence",
+            "content": [
+                "Disease surveillance",
+                "Outbreak forecasting",
+                "Population risk analytics",
+                "Public health decision systems"
+            ]
+        },
+        {
+            "title": "Digital Twins in Healthcare and Predictive Simulation",
+            "content": [
+                "Virtual patient modeling",
+                "Predictive treatment simulation",
+                "Personalized digital health replicas",
+                "Future of computational medicine"
+            ]
+        },
+        {
+            "title": "Multimodal AI and Foundation Models in Medicine",
+            "content": [
+                "Combining image, text, lab, and genomic data",
+                "Foundation models for healthcare",
+                "Integrated clinical intelligence",
+                "Future hospital AI systems"
+            ]
+        },
+        {
+            "title": "Ethics, Regulation, Responsible AI, and Future Careers",
+            "content": [
+                "AI bias and fairness",
+                "Data privacy and governance",
+                "Regulatory considerations",
+                "Future careers, startups, and innovation pathways in healthcare AI"
+            ]
+        }
+    ],
+    "26": [
+        {
+            "title": "Introduction to Nanotechnology",
+            "content": [
+                "Introduction to Nanotechnology",
+                "Nanoscale vs microscale",
+                "Importance of nanotechnology in science, engineering, and medicine",
+                "Scope in healthcare and surgery"
+            ]
+        },
+        {
+            "title": "Basic Concepts of Nanoscience",
+            "content": [
+                "Size-dependent properties of nanomaterials",
+                "Surface area to volume ratio",
+                "Quantum effects",
+                "Physical, chemical, and biological significance of nanoscale materials"
+            ]
+        },
+        {
+            "title": "Classification of Nanomaterials",
+            "content": [
+                "Nanoparticles",
+                "Nanotubes",
+                "Nanofibers",
+                "Nanocomposites",
+                "Quantum dots",
+                "Liposomes and dendrimers"
+            ]
+        },
+        {
+            "title": "Synthesis of Nanomaterials",
+            "content": [
+                "Top-down approach",
+                "Bottom-up approach",
+                "Chemical synthesis",
+                "Physical synthesis",
+                "Biological or green synthesis"
+            ]
+        },
+        {
+            "title": "Characterization of Nanomaterials",
+            "content": [
+                "Particle size analysis",
+                "Morphology and structure",
+                "Surface charge and stability",
+                "Introduction to SEM, TEM, AFM, XRD, DLS"
+            ]
+        },
+        {
+            "title": "Nanotoxicology and Biocompatibility",
+            "content": [
+                "Interaction of nanoparticles with cells and tissues",
+                "Toxicity mechanisms",
+                "Biosafety concerns",
+                "Biocompatibility and biodegradability"
+            ]
+        },
+        {
+            "title": "Introduction to Nanomedicine",
+            "content": [
+                "Definition and scope",
+                "Role of nanotechnology in diagnosis, treatment, and prevention",
+                "Difference between traditional medicine and nanomedicine"
+            ]
+        },
+        {
+            "title": "Nanoparticles in Drug Delivery",
+            "content": [
+                "Targeted drug delivery",
+                "Controlled release systems",
+                "Passive and active targeting",
+                "Benefits in reducing side effects"
+            ]
+        },
+        {
+            "title": "Liposomes, Micelles, Dendrimers, and Polymeric Nanoparticles",
+            "content": [
+                "Structures and properties",
+                "Medical and pharmaceutical applications",
+                "Advantages in therapeutic delivery"
+            ]
+        },
+        {
+            "title": "Nanotechnology in Diagnostics",
+            "content": [
+                "Nanosensors",
+                "Nano-biosensors",
+                "Point-of-care diagnostics",
+                "Early disease detection using nanotechnology"
+            ]
+        },
+        {
+            "title": "Nanotechnology in Medical Imaging",
+            "content": [
+                "Contrast agents",
+                "Quantum dots",
+                "Iron oxide nanoparticles",
+                "Imaging in cancer, neurology, and cardiovascular disease"
+            ]
+        },
+        {
+            "title": "Nanotechnology in Cancer Therapy",
+            "content": [
+                "Tumor targeting",
+                "Nanocarriers in chemotherapy",
+                "Photothermal therapy",
+                "Photodynamic therapy",
+                "Trends in oncological nanomedicine"
+            ]
+        },
+        {
+            "title": "Introduction to Nanotechnology in Surgery",
+            "content": [
+                "Why nanotechnology is important in modern surgery",
+                "Comparison with conventional surgical approaches",
+                "Precision, minimal invasion, and targeted action"
+            ]
+        },
+        {
+            "title": "Nano-Enabled Surgical Tools and Devices",
+            "content": [
+                "Nano-coated surgical instruments",
+                "Smart scalpels",
+                "Nano-enhanced implants",
+                "Advanced biomaterials in surgery"
+            ]
+        },
+        {
+            "title": "Nanotechnology in Wound Healing and Tissue Repair",
+            "content": [
+                "Nano dressings",
+                "Antimicrobial nanomaterials",
+                "Controlled healing systems",
+                "Tissue regeneration applications"
+            ]
+        }
+    ],
+    "27": [
+        {
+            "title": "Introduction to Human Genetics in Medicine and Biotechnology",
+            "content": [
+                "Scope of genetics in healthcare and research",
+                "Role of genes in human development and disease",
+                "Why genetics matters for doctors and genetic engineers"
+            ]
+        },
+        {
+            "title": "DNA, RNA, Chromosomes, and Genome Organization",
+            "content": [
+                "Structure and function of DNA and RNA",
+                "Chromosome organization",
+                "Human genome basics"
+            ]
+        },
+        {
+            "title": "Central Dogma of Molecular Biology",
+            "content": [
+                "Replication",
+                "Transcription",
+                "Translation",
+                "Protein synthesis and clinical relevance"
+            ]
+        },
+        {
+            "title": "Gene Expression and Regulation",
+            "content": [
+                "How genes are turned on and off",
+                "Regulation at transcriptional and translational level",
+                "Importance in health and disease"
+            ]
+        },
+        {
+            "title": "Mutations and Genetic Variations",
+            "content": [
+                "Point mutation, deletion, insertion, duplication",
+                "Germline vs somatic mutations",
+                "Clinical examples"
+            ]
+        },
+        {
+            "title": "Patterns of Inheritance",
+            "content": [
+                "Mendelian inheritance",
+                "Non-Mendelian inheritance",
+                "Pedigree basics and disease tracing"
+            ]
+        }
+    ]
+}

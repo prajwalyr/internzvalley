@@ -1,0 +1,270 @@
+{
+    "1": [
+        {
+            "title": "Introduction to Power BI",
+            "content": [
+                "Understanding the Power BI ecosystem",
+                "Installing Power BI Desktop",
+                "Introduction to Power BI interface and features"
+            ]
+        },
+        {
+            "title": "Data Sources and Data Loading",
+            "content": [
+                "Connecting to various data sources (Excel, CSV, databases, web, etc.)",
+                "Loading data into Power BI",
+                "Basic data transformation techniques"
+            ]
+        },
+        {
+            "title": "Data Modeling",
+            "content": [
+                "Understanding relationships in Power BI",
+                "Creating basic data models",
+                "Introduction to DAX (Data Analysis Expressions)"
+            ]
+        },
+        {
+            "title": "Visualization Basics",
+            "content": [
+                "Building basic visualizations (bar charts, line charts, pie charts, etc.)",
+                "Formatting visuals and applying themes",
+                "Introduction to interactive reports and dashboards"
+            ]
+        },
+        {
+            "title": "Intermediate Data Modeling and DAX",
+            "content": [
+                "Advanced relationships and cardinality",
+                "Introduction to DAX functions (CALCULATE, FILTER, RELATED, etc.)",
+                "Time Intelligence functions in DAX"
+            ]
+        },
+        {
+            "title": "Advanced Visualization Techniques",
+            "content": [
+                "Drill-down and drill-through visualizations",
+                "Custom visuals and importing from the marketplace",
+                "Conditional formatting and dynamic visuals"
+            ]
+        },
+        {
+            "title": "Advanced Data Transformation",
+            "content": [
+                "Using Power Query Editor for complex data transformations",
+                "Merging queries and appending queries"
+            ]
+        },
+        {
+            "title": "Advanced Data Modeling",
+            "content": [
+                "Hierarchies and parent-child relationships",
+                "Handling many-to-many relationships",
+                "Advanced DAX patterns and optimization techniques"
+            ]
+        },
+        {
+            "title": "Advanced DAX Techniques",
+            "content": [
+                "DAX optimization and performance tuning",
+                "Advanced DAX functions (EARLIER, RANKX, etc.)"
+            ]
+        },
+        {
+            "title": "Power BI Service and Collaboration",
+            "content": [
+                "Publishing reports to Power BI Service",
+                "Creating dashboards and sharing content",
+                "Introduction to Power BI mobile app"
+            ]
+        },
+        {
+            "title": "Advanced Datasets and Scenarios",
+            "content": [
+                "Working on real-world datasets and scenarios",
+                "Integrating Power BI with other tools (Excel, SharePoint, etc.)",
+                "Best practices for report design and development"
+            ]
+        },
+        {
+            "title": "Advanced Topics and Certification Preparation",
+            "content": [
+                "Advanced data analytics with Power BI",
+                "Advanced visualization techniques and storytelling with data"
+            ]
+        }
+    ],
+    "2": [
+        {
+            "title": "Introduction to Data Analytics",
+            "content": [
+                "Overview of data analytics",
+                "Importance in various industries",
+                "Tools and software overview (Excel, Python, R)"
+            ]
+        },
+        {
+            "title": "Basic Statistics",
+            "content": [
+                "Descriptive statistics",
+                "Central tendency and dispersion",
+                "Probability distributions"
+            ]
+        },
+        {
+            "title": "Data Cleaning and Preprocessing",
+            "content": [
+                "Handling missing data",
+                "Outlier detection and removal",
+                "Data normalization and scaling"
+            ]
+        },
+        {
+            "title": "Exploratory Data Analysis (EDA)",
+            "content": [
+                "Data visualization techniques (matplotlib, seaborn)",
+                "Correlation analysis",
+                "Univariate and bivariate analysis"
+            ]
+        },
+        {
+            "title": "Intermediate Statistics",
+            "content": [
+                "Hypothesis testing",
+                "Confidence intervals",
+                "Regression analysis"
+            ]
+        },
+        {
+            "title": "SQL for Data Analysis",
+            "content": [
+                "Basics of SQL",
+                "Querying databases for analytics"
+            ]
+        },
+        {
+            "title": "Introduction to Machine Learning",
+            "content": [
+                "Overview of machine learning",
+                "Supervised vs. unsupervised learning",
+                "Model evaluation metrics"
+            ]
+        },
+        {
+            "title": "Regression and Classification",
+            "content": [
+                "Linear regression",
+                "Logistic regression",
+                "Model training and evaluation"
+            ]
+        },
+        {
+            "title": "Time Series Analysis",
+            "content": [
+                "Time series data basics",
+                "Forecasting techniques"
+            ]
+        },
+        {
+            "title": "Clustering and Dimensionality Reduction",
+            "content": [
+                "K-means clustering",
+                "Principal Component Analysis (PCA)"
+            ]
+        },
+        {
+            "title": "Natural Language Processing (NLP)",
+            "content": [
+                "Basics of NLP",
+                "Text preprocessing and analysis"
+            ]
+        },
+        {
+            "title": "Final Project and Capstone",
+            "content": [
+                "Students work on a real-world project applying learned skills",
+                "Presentation and documentation"
+            ]
+        }
+    ],
+    "3": [
+        {
+            "title": "Introduction",
+            "content": [
+                "Introduction to Rivet: History, purpose, and applications.",
+                "Setting up the development environment.",
+                "Basic syntax and structure."
+            ]
+        },
+        {
+            "title": "Variables",
+            "content": [
+                "Variables and data types.",
+                "Operators and expressions."
+            ]
+        },
+        {
+            "title": "Control flow",
+            "content": [
+                "Control flow: if statements, loops, and conditional statements."
+            ]
+        },
+        {
+            "title": "Functions",
+            "content": [
+                "Functions: defining and calling functions.",
+                "Built-in functions and standard libraries."
+            ]
+        },
+        {
+            "title": "Arrays and lists",
+            "content": [
+                "Arrays and lists: creation, manipulation, and iteration."
+            ]
+        },
+        {
+            "title": "Strings",
+            "content": [
+                "Working with strings and string manipulation."
+            ]
+        },
+        {
+            "title": "File handling",
+            "content": [
+                "File handling: reading from and writing to files."
+            ]
+        },
+        {
+            "title": "Error handling",
+            "content": [
+                "Error handling and exceptions.",
+                "Debugging techniques."
+            ]
+        },
+        {
+            "title": "Introduction to object-oriented programming",
+            "content": [
+                "Introduction to object-oriented programming.",
+                "Classes and objects."
+            ]
+        },
+        {
+            "title": "Inheritance",
+            "content": [
+                "Inheritance and polymorphism."
+            ]
+        },
+        {
+            "title": "Encapsulation",
+            "content": [
+                "Encapsulation and access modifiers."
+            ]
+        },
+        {
+            "title": "OOP concepts",
+            "content": [
+                "Advanced OOP concepts: interfaces, abstract classes."
+            ]
+        }
+    ]
+}

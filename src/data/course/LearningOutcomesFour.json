@@ -1,0 +1,228 @@
+{
+    "1": [
+        {
+            "title": "Introduction to Excel",
+            "content": [
+                "Understanding the Excel interface: ribbons, menus, and toolbars.",
+                "Navigating worksheets and workbooks.",
+                "Entering data into cells and basic formatting (font, alignment, borders, fill color)."
+            ]
+        },
+        {
+            "title": "Basic Formulas and Functions",
+            "content": [
+                "Understanding cell references (relative, absolute, mixed).",
+                "Using basic arithmetic operators (+, -, *, /).",
+                "Introduction to common functions: SUM, AVERAGE, MAX, MIN.",
+                "Using AutoSum and AutoFill."
+            ]
+        },
+        {
+            "title": "Formatting and Styling",
+            "content": [
+                "Cell formatting: number formats, text formatting, conditional formatting.",
+                "Using styles and themes to improve the appearance of worksheets.",
+                "Inserting and formatting charts and graphs."
+            ]
+        },
+        {
+            "title": "Managing Worksheets and Workbooks",
+            "content": [
+                "Renaming, inserting, and deleting worksheets.",
+                "Managing workbooks: save, save as, open, close.",
+                "Grouping and ungrouping worksheets."
+            ]
+        },
+        {
+            "title": "Advanced Formulas and Functions",
+            "content": [
+                "Using logical functions: IF, AND, OR.",
+                "Using lookup and reference functions: VLOOKUP, HLOOKUP, INDEX, MATCH.",
+                "Understanding and implementing nested functions."
+            ]
+        },
+        {
+            "title": "Data Management and Analysis",
+            "content": [
+                "Sorting data: sorting by single and multiple criteria.",
+                "Filtering data: using AutoFilter, custom filters.",
+                "Introduction to pivot tables: creating, modifying, and analyzing pivot tables."
+            ]
+        },
+        {
+            "title": "Data Validation and Protection",
+            "content": [
+                "Applying data validation rules to control data entry.",
+                "Protecting worksheets and workbooks: locking cells, protecting sheets, and password protection.",
+                "Sharing and tracking changes in a workbook."
+            ]
+        }
+    ],
+    "2": [
+        {
+            "title": "Introduction to Sales",
+            "content": [
+                "Understanding the sales process.",
+                "Importance of sales in business."
+            ]
+        },
+        {
+            "title": "Product/Service Knowledge",
+            "content": [
+                "In-depth understanding of the product or service being sold.",
+                "Features, benefits, and value proposition.",
+                "Handling common objections."
+            ]
+        },
+        {
+            "title": "Communication Skills",
+            "content": [
+                "Verbal and non-verbal communication.",
+                "Active listening techniques.",
+                "Effective questioning and probing."
+            ]
+        },
+        {
+            "title": "Building Relationship",
+            "content": [
+                "Importance of building rapport with clients.",
+                "Developing trust and credibility.",
+                "Strategies for relationship building."
+            ]
+        },
+        {
+            "title": "Prospecting and Lead Generation",
+            "content": [
+                "Identifying potential leads.",
+                "Techniques for prospecting (e.g., cold calling, networking, referrals).",
+                "Introduction to CRM tools for lead management."
+            ]
+        },
+        {
+            "title": "Advanced Sales Techniques",
+            "content": [
+                "Consultative selling approach.",
+                "Solution-based selling.",
+                "Handling objections and overcoming resistance."
+            ]
+        },
+        {
+            "title": "Understanding Buyer Psychology",
+            "content": [
+                "Buyer personas and their motivations.",
+                "Emotional intelligence in sales.",
+                "Tailoring presentations and pitches to different personality types."
+            ]
+        },
+        {
+            "title": "Negotiation Skills",
+            "content": [
+                "Principles of negotiation.",
+                "Creating win-win scenarios.",
+                "Handling objections and concessions."
+            ]
+        },
+        {
+            "title": "Sales Process Optimization",
+            "content": [
+                "Streamlining the sales process.",
+                "Time management for sales professionals.",
+                "Utilizing technology for efficiency (e.g., CRM, sales automation)."
+            ]
+        },
+        {
+            "title": "Metrics and Performance Measurement",
+            "content": [
+                "Key performance indicators (KPIs) for sales.",
+                "Setting and tracking sales goals."
+            ]
+        }
+    ],
+    "3": [
+        {
+            "title": "Programming Fundamentals",
+            "content": [
+                "Basics of programming logic and algorithms",
+                "Introduction to a programming language (e.g., Python, Java, JavaScript)"
+            ]
+        },
+        {
+            "title": "Web Development",
+            "content": [
+                "HTML and CSS fundamentals",
+                "JavaScript basics for interactivity"
+            ]
+        },
+        {
+            "title": "Database Management",
+            "content": [
+                "Basics of relational databases (SQL)",
+                "Database design principles"
+            ]
+        },
+        {
+            "title": "Data Analysis",
+            "content": [
+                "Introduction to data analysis concepts",
+                "Hands-on experience with data manipulation using Pandas (Python library)",
+                "Basic data visualization using Matplotlib or Seaborn"
+            ]
+        },
+        {
+            "title": "Communication Skills",
+            "content": [
+                "Effective verbal and written communication",
+                "Active listening and empathy in communication",
+                "Presentation skills and public speaking"
+            ]
+        },
+        {
+            "title": "Teamwork and Collaboration",
+            "content": [
+                "Understanding team dynamics",
+                "Conflict resolution and problem-solving within teams",
+                "Collaborative tools such as Slack, Trello, or Asana"
+            ]
+        },
+        {
+            "title": "Time Management",
+            "content": [
+                "Setting goals and prioritizing tasks",
+                "Techniques for effective time management",
+                "Handling deadlines and managing stress"
+            ]
+        },
+        {
+            "title": "Resume Writing and Interview Skills",
+            "content": [
+                "Crafting effective resumes and cover letters",
+                "Interview preparation techniques (mock interviews, behavioral interview training)",
+                "Understanding common interview questions and how to answer them effectively"
+            ]
+        },
+        {
+            "title": "Networking and LinkedIn Proficiency",
+            "content": [
+                "Building professional networks",
+                "Leveraging LinkedIn for job search and career advancement",
+                "Online networking etiquette and strategies"
+            ]
+        },
+        {
+            "title": "Continuous Learning",
+            "content": [
+                "Cultivating a habit of continuous learning",
+                "Utilizing online learning platforms (Coursera, Udemy, LinkedIn Learning)",
+                "Identifying industry trends and staying updated with emerging technologies"
+            ]
+        },
+        {
+            "title": "Personal Branding",
+            "content": [
+                "Building a professional online presence",
+                "Developing a personal brand narrative",
+                "Leveraging social media and personal website for branding purposes"
+            ]
+        }
+    ]
+}

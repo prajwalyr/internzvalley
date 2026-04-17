@@ -173,7 +173,7 @@ class CourseCat01 extends Component {
             <div className="row mb-70 justify-content-center">
               <div className="col-xl-8">
                 <div className="section-heading text-center">
-                  <h2 className="font-lg">Partnered Companies</h2>
+                  <h2 className="font-lg">Authorized Certification Partner</h2>
                   <p>
                     We collaborate with top-tier companies and renowned colleges worldwide to create impactful learning and career opportunities.
                   </p>

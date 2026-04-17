@@ -35,7 +35,7 @@
             }
         ],
         "featured": true,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Popularity",
         "categories": [
             "Language Learning",
@@ -45,7 +45,7 @@
             "https://www.youtube.com/watch?v=kGPr-RYZT2o"
         ],
         "excerpt": "Excel is important because it allows users to organize, analyze, and manipulate data efficiently. It offers powerful features for creating spreadsheets, performing calculations, generating charts, and automating tasks. ",
-        "details": "<h5>Course Description</h5> <p>Excel is important because it allows users to organize, analyze, and manipulate data efficiently. It offers powerful features for creating spreadsheets, performing calculations, generating charts, and automating tasks.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Excel</li><li>Basic Formulas and Functions</li><li>Formatting and Styling</li><li>Managing Worksheets and Workbooks</li><li>Advanced Formulas and Functions</li><li>Data Management and Analysis</li><li>Data Validation and Protection</li></ul> "
+        "details": "<h5>Course Description</h5> <p>Excel is important because it allows users to organize, analyze, and manipulate data efficiently. It offers powerful features for creating spreadsheets, performing calculations, generating charts, and automating tasks.</p>"
     },
     {
         "id": 2,
@@ -67,7 +67,7 @@
         "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
         "passPercentage": 90,
         "featured": false,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Trending",
         "categories": [
             "Business",
@@ -77,7 +77,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "Salesforce is important because it provides businesses with a comprehensive platform for managing customer relationships, sales processes, and marketing efforts.",
-        "details": "<h5>Course Description</h5> <p>Salesforce is important because it provides businesses with a comprehensive platform for managing customer relationships, sales processes, and marketing efforts.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Introduction to Sales</li><li>Product/Service Knowledge</li><li>Communication Skills</li><li>Building Relationship</li><li>Prospecting and Lead Generation</li><li>Advanced Sales Techniques</li><li>Understanding Buyer Psychology</li><li>Negotiation Skills</li><li>Sales Process Optimization</li><li>Metrics and Performance Measurement</li></ul> ",
+        "details": "<h5>Course Description</h5> <p>Salesforce is important because it provides businesses with a comprehensive platform for managing customer relationships, sales processes, and marketing efforts.</p>",
         "reviews": [
             {
                 "rating": 4.9,
@@ -116,7 +116,7 @@
         "reviewText": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions.",
         "passPercentage": 90,
         "featured": true,
-        "certificate": "available",
+        "certificate": "Available",
         "filterParam": "Featured",
         "categories": [
             "App Development",
@@ -126,7 +126,7 @@
             "https://www.youtube.com/watch?v=pNje3bWz7V8"
         ],
         "excerpt": "It is a document created and used by a person to present their background, skills, and accomplishments.",
-        "details": "<h5>Course Description</h5> <p>It is a document created and used by a person to present their background, skills, and accomplishments.</p><h5>What You’ll Learn From This Course</h5> <ul> <li>Technical Skills</li><li>Soft Skills</li><li>Professional Development</li></ul>",
+        "details": "<h5>Course Description</h5> <p>It is a document created and used by a person to present their background, skills, and accomplishments.</p>",
         "reviews": [
             {
                 "rating": 4.6,

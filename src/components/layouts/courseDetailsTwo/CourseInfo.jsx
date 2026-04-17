@@ -16,7 +16,7 @@ const CourseInfo = ({ data }) => {
 
         <div className="course-sidebar course-sidebar-2 mt-5 mt-lg-0">
             <div className="course-widget course-details-info">
-                
+
                 {/* <div className="price-header">
                     <h2 className="course-price">
                         ₹{data.price === '0' ? 'Free' : data.price} 
@@ -37,6 +37,15 @@ const CourseInfo = ({ data }) => {
                             <div className="d-flex justify-content-between align-items-center">
                                 <span><i className="ri-bar-chart-2-line"></i>Level</span>
                                 {data.level}
+                            </div>
+                        </li>
+                    }
+
+                    {data.certificate &&
+                        <li>
+                            <div className="d-flex justify-content-between align-items-center">
+                                <span><i className="ri-medal-line"></i>Certificate</span>
+                                {data.certificate}
                             </div>
                         </li>
                     }

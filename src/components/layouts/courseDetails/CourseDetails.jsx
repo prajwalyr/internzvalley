@@ -6,6 +6,7 @@ import AccordionContext from 'react-bootstrap/AccordionContext';
 import CourseData from '../../../data/course/CourseData.json';
 
 import CurriculumTabContent from '../../../data/course/CurriculumTabContent.json';
+import LearningOutcomes from '../../../data/course/LearningOutcomes.json';
 
 import RelatedCourses from '../courseDetails/RelatedCourses';
 
@@ -58,6 +59,55 @@ const CurriculumContent = () => {
     )
 }
 
+const LearningOutcomesContent = ({ courseId }) => {
+    const [activeId, setActiveId] = useState('0');
+    const outcomes = LearningOutcomes[courseId] || [];
+
+    function toggleActive(id) {
+        if (activeId === id) {
+            setActiveId(null);
+        } else {
+            setActiveId(id);
+        }
+    }
+
+    return (
+        <>
+            <h5 className="mb-4">What You'll Learn From This Course</h5>
+            <Accordion bsPrefix="edu-accordion-02" defaultActiveKey={activeId} flush>
+                {outcomes.map((accordion, i) => (
+                    <Accordion.Item
+                        eventKey={i.toString()}
+                        key={i}
+                        onClick={() => toggleActive(i.toString())}
+                        bsPrefix={`edu-accordion-item ${activeId === i.toString() ? 'bg-active' : ''}`}
+                    >
+                        <div className="edu-accordion-header">
+                            <CustomToggle eventKey={i.toString()}>
+                                {accordion.title}
+                            </CustomToggle>
+                        </div>
+                        <Accordion.Body bsPrefix="edu-accordion-body">
+                            <ul>
+                                {accordion.content.map((item, index) => (
+                                    <li key={index}>
+                                        <div className="text">
+                                            <i className="ri-draft-line"></i>
+                                            {item}
+                                        </div>
+                                        <div className="icon">
+                                            <i className="ri-lock-password-line"></i>
+                                        </div>
+                                    </li>
+                                ))}
+                            </ul>
+                        </Accordion.Body>
+                    </Accordion.Item>
+                ))}
+            </Accordion>
+        </>
+    );
+};
 
 const CourseDetails = () => {
 
@@ -151,6 +201,9 @@ const CourseDetails = () => {
                                         <div className={`tab-pane fade show ${contentTab === 'overview' ? 'active' : '' } `}>
                                             <div className="single-course-details ">
                                                 <div className="course-tab-content" dangerouslySetInnerHTML={{__html: courseItem.details}} />
+                                                <div className="course-tab-content">
+                                                    <LearningOutcomesContent courseId={courseItem.id} />
+                                                </div>
                                             </div>
                                         </div>
                                     }

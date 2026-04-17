@@ -13,7 +13,7 @@ class Banner extends Component {
       <>
         <FsLightbox
           toggler={this.state.lightboxToggler}
-          sources={[`${process.env.PUBLIC_URL}/assets/images/vid1.mp4`]}
+          sources={[`${process.env.PUBLIC_URL}/assets/images/vid2.mp4`]}
         />
         <section className="banner banner-style-1">
           <div className="container">
