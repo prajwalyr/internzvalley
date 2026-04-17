@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { Link } from 'react-router-dom';
 
 const CourseInfo = ({ data }) => {
     return (
@@ -67,9 +67,11 @@ const CourseInfo = ({ data }) => {
                     </li>
                 </ul>
                 <div className="buy-btn">
-                    <button className="button button-enroll-course btn btn-main-2 rounded">
-                        <i className="ri-shopping-cart-2-line me-2"></i> Enroll Course
-                    </button>
+                    <Link to="https://docs.google.com/forms/d/e/1FAIpQLSfY2PklFx3b0bC2TaR-pMAFZozWY4xmBXDbSR75Jkm810JHOQ/viewform" >
+                        <button className="button button-enroll-course btn btn-main-2 rounded">
+                            <i className="ri-shopping-cart-2-line me-2"></i> Enroll Course
+                        </button>
+                    </Link>
                 </div>
 
                 <div className="course-meterial">
